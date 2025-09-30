@@ -1,0 +1,5159 @@
+[
+  {
+    "country": "GB",
+    "course": "Sedgefield",
+    "off_time": "3:07",
+    "course_id": 57,
+    "race_id": 902515,
+    "date": "2025-09-30",
+    "race_name": "Happy Birthday Pam Handicap Chase (GBB Race)",
+    "distance_round": "2m5f",
+    "distance": "2m5f28y",
+    "distance_f": 21.0,
+    "region": "GB",
+    "pattern": "",
+    "race_class": "Class 4",
+    "type": "Chase",
+    "age_band": "4yo+",
+    "rating_band": "0-120",
+    "prize": "\u00a34,700",
+    "field_size": 5,
+    "going_detailed": "GOOD (Watered; 6.5)",
+    "rail_movements": "",
+    "stalls": "",
+    "weather": "sunny intervals",
+    "going": "Good",
+    "surface": "Turf",
+    "runners": [
+      {
+        "age": 7,
+        "horse_id": 4725954,
+        "name": "Breizh River",
+        "dob": "2018-03-28",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "FR",
+        "breeder": "Scea Haras Des Evees & Mr Daniel Cherdo",
+        "dam": "Ilerda",
+        "dam_region": "GER",
+        "sire": "Stormy River",
+        "sire_region": "FR",
+        "grandsire": "Verglas",
+        "damsire": "Lando",
+        "damsire_region": "GER",
+        "trainer": "Paul Robson",
+        "trainer_id": 37023,
+        "trainer_location": "South Hazelrigg, Northumberland",
+        "trainer_14_days": {
+          "runs": 2,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "Border Caravans Ltd",
+        "prev_trainers": null,
+        "prev_owners": null,
+        "comment": "Has lost his way since collecting a good prize at Kelso just under a year ago",
+        "spotlight": "Useful when on song but has lost his way since landing good prize at Kelso (2m1f, good) just under a year ago; should be fine over today's trip but was a good way behind Arthur's Quay at Cartmel last month and needs to turn a corner.",
+        "medical": [
+          {
+            "date": "2025-06-11",
+            "type": "Wind Surgery"
+          }
+        ],
+        "quotes": [
+          {
+            "date": "2024-10-06",
+            "horse": "Breizh River",
+            "horse_id": 4725954,
+            "race": "Ray & Anita Green Chasing 500 Winners Handicap Chase (Registered As The Simply Ned) (GBB Race)",
+            "race_id": 875699,
+            "course": "Kelso",
+            "course_id": 27,
+            "distance_f": 17,
+            "distance_y": 3754,
+            "quote": "Breizh River is a cracking horse. He's been very lightly raced and we're just going to target him at certain races throughout the season. He won't take a lot of racing because he's only six and is quite backward in his mind, but he's obviously very tough. He'll have a break now and we'll aim him at the Southam Handicap Chase over two and a half miles at Cheltenham's November meeting. That was always the plan and we know he wants further - Paul Robson, trainer."
+          }
+        ],
+        "stable_tour": null,
+        "number": 1,
+        "draw": 0,
+        "headgear": "p",
+        "headgear_first": "",
+        "lbs": 168,
+        "ofr": 120,
+        "rpr": 127,
+        "ts": 96,
+        "jockey": "Ryan Mania",
+        "jockey_id": 86359,
+        "last_run": "36",
+        "form": "PP-349",
+        "trainer_rtf": "",
+        "stats": {
+          "course": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "3",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "7",
+            "wins": "3"
+          },
+          "jockey": {
+            "last_14_runs": "0",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "-",
+            "last_14_profit": "0.00",
+            "ovr_runs": "33",
+            "ovr_wins": "3",
+            "ovr_wins_pct": "9%",
+            "ovr_profit": "-13.00"
+          },
+          "trainer": {
+            "last_14_runs": "0",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "-",
+            "last_14_profit": "0.00",
+            "ovr_runs": "14",
+            "ovr_wins": "0",
+            "ovr_wins_pct": "0%",
+            "ovr_profit": "-14.00"
+          }
+        }
+      },
+      {
+        "age": 11,
+        "horse_id": 2396289,
+        "name": "Arthurs Quay",
+        "dob": "2014-06-04",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Jonathan Deacon",
+        "dam": "Bannow Girl",
+        "dam_region": "IRE",
+        "sire": "Beat Hollow",
+        "sire_region": "GB",
+        "grandsire": "Sadlers Wells",
+        "damsire": "Glacial Storm",
+        "damsire_region": "USA",
+        "trainer": "Ben Haslam",
+        "trainer_id": 22367,
+        "trainer_location": "Middleham Moor, N Yorks",
+        "trainer_14_days": {
+          "runs": 7,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "John P Mcmanus",
+        "prev_trainers": [
+          {
+            "trainer": "Padraig Roche",
+            "trainer_id": 34143,
+            "change_date": "2022-09-29"
+          }
+        ],
+        "prev_owners": null,
+        "comment": "Not disgraced in two competitive Cartmel chases this summer; should find this easier",
+        "spotlight": "Six-time chase winner (once here); getting long in the tooth now but didn't run badly in two competitive 2m5f Cartmel chases this summer and contests this easier race from a workable mark.",
+        "quotes": [
+          {
+            "date": "2023-11-24",
+            "horse": "Arthur's Quay",
+            "horse_id": 2396289,
+            "race": "Weatherbys nhstallions.co.uk Handicap Chase",
+            "race_id": 853003,
+            "course": "Catterick",
+            "course_id": 10,
+            "distance_f": 19,
+            "distance_y": 4231,
+            "quote": "Arthur's Quay showed a bit of class there and I was really pleased with him. Richie (McLernon) felt it might be worth having a crack at the Topham in the spring with him - there was lots going on in that race but he handled it all well and his jumping came to the fore - Ben Haslam, trainer."
+          },
+          {
+            "date": "2019-09-13",
+            "horse": "Arthur's Quay",
+            "horse_id": 2396289,
+            "race": "John J. Galvin Maiden Hurdle",
+            "race_id": 739744,
+            "course": "Listowel",
+            "course_id": 190,
+            "distance_f": 20,
+            "distance_y": 4400,
+            "quote": "He's a lovely horse. We expected him to run well and it was grand that he won. Mark [Walsh] gave him a lovely ride. The step up to two and half miles did the job. We know the family well. His half-brother [The Big Apple] isn't a bad horse - I won a bumper on him so he mustn't have been bad! He's a nice horse that we've always liked from day one - Padraig Roche, trainer of Arthur's Quay"
+          }
+        ],
+        "stable_tour": null,
+        "number": 2,
+        "draw": 0,
+        "headgear": "t",
+        "headgear_first": "",
+        "lbs": 168,
+        "ofr": 120,
+        "rpr": 124,
+        "ts": 100,
+        "jockey": "Richie Mclernon",
+        "jockey_id": 83698,
+        "last_run": "36",
+        "form": "61-255",
+        "trainer_rtf": "13",
+        "stats": {
+          "course": {
+            "runs": "2",
+            "wins": "1"
+          },
+          "distance": {
+            "runs": "8",
+            "wins": "1"
+          },
+          "going": {
+            "runs": "12",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "10",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "10%",
+            "last_14_profit": "-4.00",
+            "ovr_runs": "75",
+            "ovr_wins": "6",
+            "ovr_wins_pct": "8%",
+            "ovr_profit": "-10.64"
+          },
+          "trainer": {
+            "last_14_runs": "1",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-1.00",
+            "ovr_runs": "89",
+            "ovr_wins": "9",
+            "ovr_wins_pct": "10%",
+            "ovr_profit": "-17.89"
+          }
+        }
+      },
+      {
+        "age": 9,
+        "horse_id": 3290486,
+        "name": "Aslukwoodhavit",
+        "dob": "2016-04-18",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "GB",
+        "breeder": "R S Brookhouse",
+        "dam": "Shes The Lady",
+        "dam_region": "GB",
+        "sire": "Yorgunnabelucky",
+        "sire_region": "USA",
+        "grandsire": "Giants Causeway",
+        "damsire": "Unfuwain",
+        "damsire_region": "USA",
+        "trainer": "Mickey Bowen",
+        "trainer_id": 28905,
+        "trainer_location": "Haverfordwest, Pembrokes",
+        "trainer_14_days": {
+          "runs": 14,
+          "wins": 5,
+          "percent": 36
+        },
+        "owner": "Bill Hawkins",
+        "prev_trainers": [
+          {
+            "trainer": "Henry De Bromhead",
+            "trainer_id": 1249,
+            "change_date": "2025-06-23"
+          },
+          {
+            "trainer": "W P Mullins",
+            "trainer_id": 1475,
+            "change_date": "2022-11-17"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Bill Hawkins & Partners",
+            "owner_id": 361177,
+            "change_date": "2025-09-15"
+          },
+          {
+            "owner": "Bill Hawkins",
+            "owner_id": 200290,
+            "change_date": "2025-08-15"
+          },
+          {
+            "owner": "R S Brookhouse",
+            "owner_id": 11234,
+            "change_date": "2025-06-23"
+          }
+        ],
+        "comment": "Needs to better recent efforts but form of Uttoxeter second in July gives him good claims",
+        "spotlight": "0-6 for current stable and needs to better his recent efforts but is now 5lb lower than when creditable second at Uttoxeter (2m4f, good) in July and can't be ruled out; visor removed after one use.",
+        "medical": [
+          {
+            "date": "2025-07-28",
+            "type": "Wind Surgery"
+          }
+        ],
+        "quotes": [
+          {
+            "date": "2023-11-16",
+            "horse": "Aslukwoodhavit",
+            "horse_id": 3290486,
+            "race": "Ladbrokes Fanzone \"Your Team Your Game\" Rated Novice Chase",
+            "race_id": 854546,
+            "course": "Punchestown",
+            "course_id": 195,
+            "distance_f": 15.5,
+            "distance_y": 3431,
+            "quote": "Aslukwoodhavit jumped really well. It was an ideal race for him despite his inexperience - Henry de Bromhead, trainer."
+          }
+        ],
+        "stable_tour": [
+          {
+            "horse": "Aslukwoodhavit",
+            "horse_id": 3290486,
+            "quote": "A nice type who I'm looking forward to seeing in a bumper. You'll see him shortly. 09-11-20"
+          }
+        ],
+        "number": 3,
+        "draw": 0,
+        "headgear": "t",
+        "headgear_first": "",
+        "lbs": 160,
+        "ofr": 112,
+        "rpr": 128,
+        "ts": 118,
+        "jockey": "Shane Fenelon(5)",
+        "jockey_id": 99195,
+        "last_run": "14",
+        "form": "832345",
+        "trainer_rtf": "56",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "3",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "6",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "5",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-5.00",
+            "ovr_runs": "8",
+            "ovr_wins": "2",
+            "ovr_wins_pct": "25%",
+            "ovr_profit": "+2.00"
+          },
+          "trainer": {
+            "last_14_runs": "16",
+            "last_14_wins": "5",
+            "last_14_wins_pct": "31%",
+            "last_14_profit": "-2.89",
+            "ovr_runs": "2",
+            "ovr_wins": "0",
+            "ovr_wins_pct": "0%",
+            "ovr_profit": "-2.00"
+          }
+        }
+      },
+      {
+        "age": 6,
+        "horse_id": 6537090,
+        "name": "Moonshine Man",
+        "dob": "2019-05-14",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Michael Cave",
+        "dam": "Getout",
+        "dam_region": "IRE",
+        "sire": "Sea Moon",
+        "sire_region": "GB",
+        "grandsire": "Beat Hollow",
+        "damsire": "Getaway",
+        "damsire_region": "GER",
+        "trainer": "Henrietta C Knight",
+        "trainer_id": 4415,
+        "trainer_location": "West Lockinge, Oxon",
+        "trainer_14_days": {
+          "runs": 4,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "Wymer, Kehoe And Garner",
+        "prev_trainers": null,
+        "prev_owners": null,
+        "comment": "Emphatic hurdle winner in new tongue-tie in May; might improve again over fences",
+        "spotlight": "Seemingly aided by first-time tongue-tie when getting off the mark with emphatic hurdle win at Hereford (2m3f, good) in May; makes chasing debut after 144-day absence but might kick on again over fences.",
+        "medical": [
+          {
+            "date": "2025-03-06",
+            "type": "Wind Surgery"
+          }
+        ],
+        "quotes": null,
+        "stable_tour": null,
+        "number": 4,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 157,
+        "ofr": 109,
+        "rpr": null,
+        "ts": null,
+        "jockey": "Brendan Powell",
+        "jockey_id": 90406,
+        "last_run": "144",
+        "form": "593P-1",
+        "trainer_rtf": "33",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "6",
+            "wins": "1"
+          },
+          "jockey": {
+            "last_14_runs": "4",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "25%",
+            "last_14_profit": "+7.00",
+            "ovr_runs": "2",
+            "ovr_wins": "0",
+            "ovr_wins_pct": "0%",
+            "ovr_profit": "-2.00"
+          },
+          "trainer": {
+            "last_14_runs": "1",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-1.00",
+            "ovr_runs": "0",
+            "ovr_wins": "0",
+            "ovr_wins_pct": "-",
+            "ovr_profit": "0.00"
+          }
+        }
+      },
+      {
+        "age": 8,
+        "horse_id": 4273932,
+        "name": "Old Page",
+        "dob": "2017-05-13",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "J Gibbons",
+        "dam": "Dual Rose",
+        "dam_region": "IRE",
+        "sire": "Snow Sky",
+        "sire_region": "GB",
+        "grandsire": "Nayef",
+        "damsire": "Roselier",
+        "damsire_region": "FR",
+        "trainer": "David Thompson",
+        "trainer_id": 14733,
+        "trainer_location": "Bolam, Co Durham",
+        "trainer_14_days": {
+          "runs": 9,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "A Sadik",
+        "prev_trainers": [
+          {
+            "trainer": "Aytach Sadik",
+            "trainer_id": 8724,
+            "change_date": "2023-08-21"
+          },
+          {
+            "trainer": "Christian Williams",
+            "trainer_id": 33186,
+            "change_date": "2022-08-22"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "C R P Williams",
+            "owner_id": 253372,
+            "change_date": "2022-08-22"
+          }
+        ],
+        "comment": "Won three times over 3m2f here last season; needs a career-best effort today, though",
+        "spotlight": "Won three times over 3m2f here (always on good ground) during productive campaign last season; needs career-best performance to overcome this rise in grade but returns here after respectable fourth over today's trip at Cartmel (good) last month.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 5,
+        "draw": 0,
+        "headgear": "p",
+        "headgear_first": "",
+        "lbs": 143,
+        "ofr": 95,
+        "rpr": 122,
+        "ts": 90,
+        "jockey": "William Maggs(5)",
+        "jockey_id": 101507,
+        "last_run": "38",
+        "form": "211-44",
+        "trainer_rtf": "38",
+        "stats": {
+          "course": {
+            "runs": "8",
+            "wins": "3"
+          },
+          "distance": {
+            "runs": "4",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "19",
+            "wins": "3"
+          },
+          "jockey": {
+            "last_14_runs": "3",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-3.00",
+            "ovr_runs": "34",
+            "ovr_wins": "6",
+            "ovr_wins_pct": "18%",
+            "ovr_profit": "+3.58"
+          },
+          "trainer": {
+            "last_14_runs": "0",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "-",
+            "last_14_profit": "0.00",
+            "ovr_runs": "36",
+            "ovr_wins": "4",
+            "ovr_wins_pct": "11%",
+            "ovr_profit": "-6.25"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "country": "GB",
+    "course": "Sedgefield",
+    "off_time": "4:07",
+    "course_id": 57,
+    "race_id": 902516,
+    "date": "2025-09-30",
+    "race_name": "Happy 70th Birthday Terry Ward Handicap Chase (Go North One Man Series Qualifier) (GBB Race)",
+    "distance_round": "2m\u00bdf",
+    "distance": "2m77y",
+    "distance_f": 16.5,
+    "region": "GB",
+    "pattern": "",
+    "race_class": "Class 4",
+    "type": "Chase",
+    "age_band": "4yo+",
+    "rating_band": "0-110",
+    "prize": "\u00a34,700",
+    "field_size": 7,
+    "going_detailed": "GOOD (Watered; 6.5)",
+    "rail_movements": "",
+    "stalls": "",
+    "weather": "sunny intervals",
+    "going": "Good",
+    "surface": "Turf",
+    "runners": [
+      {
+        "age": 7,
+        "horse_id": 4144687,
+        "name": "Jet Of Dreams",
+        "dob": "2018-05-24",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "James Devereux",
+        "dam": "Lady J D",
+        "dam_region": "IRE",
+        "sire": "Jet Away",
+        "sire_region": "GB",
+        "grandsire": "Cape Cross",
+        "damsire": "Gothland",
+        "damsire_region": "FR",
+        "trainer": "Warren Greatrex",
+        "trainer_id": 22011,
+        "trainer_location": "Upper Lambourn, Berks",
+        "trainer_14_days": {
+          "runs": 12,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "The Stewkley Shindiggers Partnership",
+        "prev_trainers": null,
+        "prev_owners": [
+          {
+            "owner": "Glassex Holdings Ltd",
+            "owner_id": 268875,
+            "change_date": "2024-04-04"
+          }
+        ],
+        "comment": "Four chase wins since spring 2024; competitive in stronger races than this recently",
+        "spotlight": "Four chase wins (one over C&D) since spring 2024; made the frame in two stronger races than this at Newton Abbot (2m, good) this summer and was not discredited in a novice hurdle a week ago; leading contender.",
+        "medical": [
+          {
+            "date": "2023-10-19",
+            "type": "Wind Surgery"
+          },
+          {
+            "date": "2023-04-17",
+            "type": "Wind Surgery"
+          },
+          {
+            "date": "2022-11-21",
+            "type": "Wind Surgery"
+          }
+        ],
+        "quotes": [
+          {
+            "date": "2024-11-14",
+            "horse": "Jet Of Dreams",
+            "horse_id": 4144687,
+            "race": "Royal Oak At Hillcommon Novices' Handicap Chase (GBB Race)",
+            "race_id": 879035,
+            "course": "Taunton",
+            "course_id": 73,
+            "distance_f": 18,
+            "distance_y": 4000,
+            "quote": "That was like a piece of work for Jet Of Dreams. He sometimes goes left anyway and especially when he's in front he's going to do it more so I just left him drift over that way. The things in front of me were the only things that were going to get me beat - James Bowen, jockey, talking to Racing TV."
+          }
+        ],
+        "stable_tour": null,
+        "number": 1,
+        "draw": 0,
+        "headgear": "tp",
+        "headgear_first": "",
+        "lbs": 168,
+        "ofr": 110,
+        "rpr": 114,
+        "ts": 98,
+        "jockey": "James Bowen",
+        "jockey_id": 96830,
+        "last_run": "7",
+        "form": "-32234",
+        "trainer_rtf": "45",
+        "stats": {
+          "course": {
+            "runs": "2",
+            "wins": "1"
+          },
+          "distance": {
+            "runs": "19",
+            "wins": "3"
+          },
+          "going": {
+            "runs": "16",
+            "wins": "3"
+          },
+          "jockey": {
+            "last_14_runs": "17",
+            "last_14_wins": "5",
+            "last_14_wins_pct": "29%",
+            "last_14_profit": "+14.40",
+            "ovr_runs": "22",
+            "ovr_wins": "8",
+            "ovr_wins_pct": "36%",
+            "ovr_profit": "+6.89"
+          },
+          "trainer": {
+            "last_14_runs": "3",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-3.00",
+            "ovr_runs": "11",
+            "ovr_wins": "3",
+            "ovr_wins_pct": "27%",
+            "ovr_profit": "+8.00"
+          }
+        }
+      },
+      {
+        "age": 8,
+        "horse_id": 3956751,
+        "name": "Harel Du Marais",
+        "dob": "2017-04-14",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "gr",
+        "region": "FR",
+        "breeder": "Thierry Gouzerh Et Al",
+        "dam": "Urbi Et Orbi",
+        "dam_region": "FR",
+        "sire": "Al Namix",
+        "sire_region": "FR",
+        "grandsire": "Linamix",
+        "damsire": "Robin Des Champs",
+        "damsire_region": "FR",
+        "trainer": "Charles & Adam Pogson",
+        "trainer_id": 37756,
+        "trainer_location": "Farnsfield, Notts",
+        "trainer_14_days": {
+          "runs": 4,
+          "wins": 1,
+          "percent": 25
+        },
+        "owner": "New Vision Bloodstock",
+        "prev_trainers": [
+          {
+            "trainer": "Mark Walford",
+            "trainer_id": 28876,
+            "change_date": "2025-02-25"
+          },
+          {
+            "trainer": "S R B Crawford",
+            "trainer_id": 16596,
+            "change_date": "2023-11-03"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Simon Munir & Isaac Souede",
+            "owner_id": 206920,
+            "change_date": "2023-11-03"
+          },
+          {
+            "owner": "Raymond Scullion/Martin McGrogan",
+            "owner_id": 216629,
+            "change_date": "2022-02-01"
+          }
+        ],
+        "comment": "Beat Prospect House at Market Rasen last month and may still have more to offer",
+        "spotlight": "Came from off the pace to beat Prospect House at Market Rasen (2m1f, good) last month, his third win since joining current stable in February; suffered early mishap when last in action but can make his presence felt if all goes to plan here.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 2,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 168,
+        "ofr": 110,
+        "rpr": 117,
+        "ts": 102,
+        "jockey": "Brian Hughes",
+        "jockey_id": 81409,
+        "last_run": "14",
+        "form": "-2231U",
+        "trainer_rtf": "50",
+        "stats": {
+          "course": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "24",
+            "wins": "3"
+          },
+          "going": {
+            "runs": "13",
+            "wins": "1"
+          },
+          "jockey": {
+            "last_14_runs": "18",
+            "last_14_wins": "4",
+            "last_14_wins_pct": "22%",
+            "last_14_profit": "+10.38",
+            "ovr_runs": "270",
+            "ovr_wins": "69",
+            "ovr_wins_pct": "26%",
+            "ovr_profit": "-20.62"
+          },
+          "trainer": {
+            "last_14_runs": "4",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "25%",
+            "last_14_profit": "-1.75",
+            "ovr_runs": "6",
+            "ovr_wins": "1",
+            "ovr_wins_pct": "17%",
+            "ovr_profit": "+1.50"
+          }
+        }
+      },
+      {
+        "age": 7,
+        "horse_id": 5657815,
+        "name": "Whatsyourproblem",
+        "dob": "2018-06-16",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "ch",
+        "region": "IRE",
+        "breeder": "John Dunford (jnr)",
+        "dam": "Whatareyousaying",
+        "dam_region": "IRE",
+        "sire": "Well Chosen",
+        "sire_region": "GB",
+        "grandsire": "Sadlers Wells",
+        "damsire": "Witness Box",
+        "damsire_region": "USA",
+        "trainer": "Fergal Obrien",
+        "trainer_id": 13986,
+        "trainer_location": "Withington, Gloucs",
+        "trainer_14_days": {
+          "runs": 19,
+          "wins": 2,
+          "percent": 11
+        },
+        "owner": "Mark & Liz Thomas",
+        "prev_trainers": [
+          {
+            "trainer": "John Queally",
+            "trainer_id": 4259,
+            "change_date": "2024-10-02"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Eoin Daly",
+            "owner_id": 266082,
+            "change_date": "2024-10-02"
+          }
+        ],
+        "comment": "Easy winner of modest maiden hurdle in April; makes chasing debut after break",
+        "spotlight": "Came good over hurdles at eighth attempt, easily justifying skinny odds in modest Huntingdon maiden (2m, good) in April; tackles stronger opposition and has fitness to prove on this chasing debut but still has possibilities if he takes well to fences.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 3,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 168,
+        "ofr": 110,
+        "rpr": null,
+        "ts": null,
+        "jockey": "Jonathan Burke",
+        "jockey_id": 91759,
+        "last_run": "172",
+        "form": "34251-",
+        "trainer_rtf": "26",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "6",
+            "wins": "1"
+          },
+          "going": {
+            "runs": "2",
+            "wins": "1"
+          },
+          "jockey": {
+            "last_14_runs": "8",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-8.00",
+            "ovr_runs": "5",
+            "ovr_wins": "1",
+            "ovr_wins_pct": "20%",
+            "ovr_profit": "-2.38"
+          },
+          "trainer": {
+            "last_14_runs": "15",
+            "last_14_wins": "2",
+            "last_14_wins_pct": "13%",
+            "last_14_profit": "+3.00",
+            "ovr_runs": "15",
+            "ovr_wins": "3",
+            "ovr_wins_pct": "20%",
+            "ovr_profit": "-6.13"
+          }
+        }
+      },
+      {
+        "age": 5,
+        "horse_id": 6504986,
+        "name": "Delpotro",
+        "dob": "2020-04-06",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "FR",
+        "breeder": "E A R L Elevage Des Loges",
+        "dam": "Tigrine",
+        "dam_region": "FR",
+        "sire": "Masked Marvel",
+        "sire_region": "GB",
+        "grandsire": "Montjeu",
+        "damsire": "Alberto Giacometti",
+        "damsire_region": "IRE",
+        "trainer": "Charlie Longsdon",
+        "trainer_id": 18660,
+        "trainer_location": "Chipping Norton, Oxfordshire",
+        "trainer_14_days": {
+          "runs": 8,
+          "wins": 2,
+          "percent": 25
+        },
+        "owner": "Jons Birthday",
+        "prev_trainers": [
+          {
+            "trainer": "Gabriel Leenders",
+            "trainer_id": 29370,
+            "change_date": "2024-09-20"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Ecurie Herve Guerin & Ecurie Horse Avenir",
+            "owner_id": 349640,
+            "change_date": "2024-09-20"
+          }
+        ],
+        "comment": "Free-going front-runner who won here on two of his last three outings; bold bid likely",
+        "spotlight": "Free-going front-runner who won his first race in Britain when making all over C&D (2m, good to firm) in May; returned from break with another course victory this month (2m3f, good) and Sean Bowen is booked again; likely to make a bid bold.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 4,
+        "draw": 0,
+        "headgear": "ht",
+        "headgear_first": "",
+        "lbs": 167,
+        "ofr": 109,
+        "rpr": 112,
+        "ts": 108,
+        "jockey": "Sean Bowen",
+        "jockey_id": 93186,
+        "last_run": "26",
+        "form": "32-1P1",
+        "trainer_rtf": "75",
+        "stats": {
+          "course": {
+            "runs": "3",
+            "wins": "2"
+          },
+          "distance": {
+            "runs": "11",
+            "wins": "3"
+          },
+          "going": {
+            "runs": "6",
+            "wins": "1"
+          },
+          "jockey": {
+            "last_14_runs": "32",
+            "last_14_wins": "10",
+            "last_14_wins_pct": "31%",
+            "last_14_profit": "+7.63",
+            "ovr_runs": "49",
+            "ovr_wins": "7",
+            "ovr_wins_pct": "14%",
+            "ovr_profit": "-31.70"
+          },
+          "trainer": {
+            "last_14_runs": "8",
+            "last_14_wins": "2",
+            "last_14_wins_pct": "25%",
+            "last_14_profit": "+3.00",
+            "ovr_runs": "19",
+            "ovr_wins": "6",
+            "ovr_wins_pct": "32%",
+            "ovr_profit": "+0.93"
+          }
+        }
+      },
+      {
+        "age": 8,
+        "horse_id": 3862926,
+        "name": "Moodofthemoment",
+        "dob": "2017-03-10",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "ch",
+        "region": "IRE",
+        "breeder": "Andrew Pierce",
+        "dam": "Mood Im In",
+        "dam_region": "GER",
+        "sire": "Shantou",
+        "sire_region": "USA",
+        "grandsire": "Alleged",
+        "damsire": "Saddlers Hall",
+        "damsire_region": "IRE",
+        "trainer": "David Thompson",
+        "trainer_id": 14733,
+        "trainer_location": "Bolam, Co Durham",
+        "trainer_14_days": {
+          "runs": 9,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "A Sadik",
+        "prev_trainers": [
+          {
+            "trainer": "Matt Sheppard",
+            "trainer_id": 9610,
+            "change_date": "2025-07-14"
+          },
+          {
+            "trainer": "David Dennis",
+            "trainer_id": 28412,
+            "change_date": "2024-08-15"
+          },
+          {
+            "trainer": "David Pipe",
+            "trainer_id": 34754,
+            "change_date": "2024-06-29"
+          },
+          {
+            "trainer": "David Pipe",
+            "trainer_id": 10157,
+            "change_date": "2024-04-13"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Barry Hawkins",
+            "owner_id": 55134,
+            "change_date": "2025-07-14"
+          },
+          {
+            "owner": "Clan McNeil",
+            "owner_id": 258615,
+            "change_date": "2024-08-15"
+          },
+          {
+            "owner": "D Pipe",
+            "owner_id": 78802,
+            "change_date": "2024-06-29"
+          },
+          {
+            "owner": "Clan McNeil",
+            "owner_id": 258615,
+            "change_date": "2024-04-13"
+          }
+        ],
+        "comment": "Had lost his way but recent third behind Delpotro was big step back in the right direction",
+        "spotlight": "Three-time chase winner (2m4f-2m5f) for Matt Sheppard towards end of 2024; changed hands after some disappointing efforts in first half of this year and made a low-key stable debut in July but his recent third behind Delpotro here (2m3f, good) was a big step back in the right direction.",
+        "quotes": [
+          {
+            "date": "2024-11-12",
+            "horse": "Moodofthemoment",
+            "horse_id": 3862926,
+            "race": "Sunshine Radio Handicap Chase",
+            "race_id": 878990,
+            "course": "Hereford",
+            "course_id": 24,
+            "distance_f": 21,
+            "distance_y": 4594,
+            "quote": "It was probably a career-best performance from Moodofthemoment. Stan is very strong from the last to the line - there aren't many people who beat Sam Twiston-Davies. We picked him up for 5,500GBP and that's my baseline sort of market. I've only got about 12 in, so to have had five winners this season is pretty good - Matt Sheppard, trainer."
+          }
+        ],
+        "stable_tour": [
+          {
+            "horse": "Moodofthemoment",
+            "horse_id": 3862926,
+            "quote": "He's going to Taunton on Thursday for a 0-120 novice handicap chase. He's been very consistent, winning his last two races, and finishing second the three times before that. Although he's gone up to 106 from a mark of 92 in August, he's definitely got more improvement in him. He's been an absolute bargain. He came out of Ireland with a big reputation - I know David Pipe thought a bit of him, but he didn't cut the mustard there - and I'm excited that he's still unexposed. I'm stepping him up in trip to 2m7f on Thursday because it's an ideal race for him. I'm not sure if he's a true three-miler but he might be okay on a sharp track. I think he'll go on any ground. 28-11-24"
+          }
+        ],
+        "number": 5,
+        "draw": 0,
+        "headgear": "p",
+        "headgear_first": "",
+        "lbs": 166,
+        "ofr": 108,
+        "rpr": 119,
+        "ts": 110,
+        "jockey": "Charlie Maggs(5)",
+        "jockey_id": 101500,
+        "last_run": "26",
+        "form": "P-5P83",
+        "trainer_rtf": "38",
+        "stats": {
+          "course": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "7",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "9",
+            "wins": "2"
+          },
+          "jockey": {
+            "last_14_runs": "9",
+            "last_14_wins": "2",
+            "last_14_wins_pct": "22%",
+            "last_14_profit": "+6.50",
+            "ovr_runs": "23",
+            "ovr_wins": "2",
+            "ovr_wins_pct": "9%",
+            "ovr_profit": "-16.80"
+          },
+          "trainer": {
+            "last_14_runs": "0",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "-",
+            "last_14_profit": "0.00",
+            "ovr_runs": "36",
+            "ovr_wins": "4",
+            "ovr_wins_pct": "11%",
+            "ovr_profit": "-6.25"
+          }
+        }
+      },
+      {
+        "age": 7,
+        "horse_id": 4067792,
+        "name": "Chase A Fortune",
+        "dob": "2018-04-23",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "GB",
+        "breeder": "T C Dawson",
+        "dam": "Lucematic",
+        "dam_region": "GB",
+        "sire": "Cannock Chase",
+        "sire_region": "USA",
+        "grandsire": "Lemon Drop Kid",
+        "damsire": "Systematic",
+        "damsire_region": "GB",
+        "trainer": "Chris Grant",
+        "trainer_id": 10688,
+        "trainer_location": "Billingham, Cleveland",
+        "trainer_14_days": {
+          "runs": 4,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "Chasing The Dream",
+        "prev_trainers": null,
+        "prev_owners": null,
+        "comment": "Absent since last November but was second in this race a year ago, after a break",
+        "spotlight": "Absent since last November but was returning from a break when second in this race last year (good to soft) and is 2lb lower this time around; could have a say if fully tuned up.",
+        "medical": [
+          {
+            "date": "2024-01-09",
+            "type": "Wind Surgery"
+          }
+        ],
+        "quotes": null,
+        "stable_tour": null,
+        "number": 6,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 164,
+        "ofr": 106,
+        "rpr": 114,
+        "ts": 93,
+        "jockey": "Danny Mcmenamin",
+        "jockey_id": 97855,
+        "last_run": "325",
+        "form": "/3F24-",
+        "trainer_rtf": "",
+        "stats": {
+          "course": {
+            "runs": "4",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "18",
+            "wins": "2"
+          },
+          "going": {
+            "runs": "7",
+            "wins": "1"
+          },
+          "jockey": {
+            "last_14_runs": "10",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-10.00",
+            "ovr_runs": "117",
+            "ovr_wins": "14",
+            "ovr_wins_pct": "12%",
+            "ovr_profit": "+11.79"
+          },
+          "trainer": {
+            "last_14_runs": "1",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-1.00",
+            "ovr_runs": "103",
+            "ovr_wins": "9",
+            "ovr_wins_pct": "9%",
+            "ovr_profit": "-20.04"
+          }
+        }
+      },
+      {
+        "age": 7,
+        "horse_id": 4268573,
+        "name": "Prospect House",
+        "dob": "2018-04-28",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Ms Virginia Naylor-Leyland",
+        "dam": "Niffyrann",
+        "dam_region": "FR",
+        "sire": "Retirement Plan",
+        "sire_region": "GB",
+        "grandsire": "Monsun",
+        "damsire": "Sheyrann",
+        "damsire_region": "IRE",
+        "trainer": "Peter Niven",
+        "trainer_id": 15449,
+        "trainer_location": "Barton-le-Street, N Yorks",
+        "trainer_14_days": {
+          "runs": 4,
+          "wins": 1,
+          "percent": 25
+        },
+        "owner": "Hard Held Partnership And Angus Racing",
+        "prev_trainers": [
+          {
+            "trainer": "Jamie Albert Sloan",
+            "trainer_id": 39449,
+            "change_date": "2022-12-26"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Hard Held Partnership",
+            "owner_id": 303549,
+            "change_date": "2023-06-03"
+          },
+          {
+            "owner": "David Bamber",
+            "owner_id": 124634,
+            "change_date": "2022-12-26"
+          }
+        ],
+        "comment": "In good form at Market Rasen this yer and recently proved himself on a left-handed track",
+        "spotlight": "In good form at regular haunt Market Rasen this season, including a 2m1f win in June and a good second behind Harel Du Marais last month; proved he's fully effectively on a left-handed track when clear second at Cartmel on latest outing and ought to give another good account here.",
+        "medical": [
+          {
+            "date": "2023-02-06",
+            "type": "Wind Surgery"
+          }
+        ],
+        "quotes": null,
+        "stable_tour": null,
+        "number": 7,
+        "draw": 0,
+        "headgear": "v",
+        "headgear_first": "",
+        "lbs": 146,
+        "ofr": 88,
+        "rpr": 114,
+        "ts": 104,
+        "jockey": "William Maggs(5)",
+        "jockey_id": 101507,
+        "last_run": "36",
+        "form": "312222",
+        "trainer_rtf": "50",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "15",
+            "wins": "2"
+          },
+          "going": {
+            "runs": "16",
+            "wins": "3"
+          },
+          "jockey": {
+            "last_14_runs": "3",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-3.00",
+            "ovr_runs": "34",
+            "ovr_wins": "6",
+            "ovr_wins_pct": "18%",
+            "ovr_profit": "+3.58"
+          },
+          "trainer": {
+            "last_14_runs": "1",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "100%",
+            "last_14_profit": "+7.00",
+            "ovr_runs": "17",
+            "ovr_wins": "1",
+            "ovr_wins_pct": "6%",
+            "ovr_profit": "-11.00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "country": "GB",
+    "course": "Sedgefield",
+    "off_time": "2:37",
+    "course_id": 57,
+    "race_id": 902517,
+    "date": "2025-09-30",
+    "race_name": "Sign Lead Your Horse To Water Juvenile Maiden Hurdle (GBB Race)",
+    "distance_round": "2m1f",
+    "distance": "2m178y",
+    "distance_f": 17.0,
+    "region": "GB",
+    "pattern": "",
+    "race_class": "Class 4",
+    "type": "Hurdle",
+    "age_band": "3yo",
+    "rating_band": null,
+    "prize": "\u00a34,193",
+    "field_size": 5,
+    "going_detailed": "GOOD (Watered; 6.5)",
+    "rail_movements": "",
+    "stalls": "",
+    "weather": "sunny intervals",
+    "going": "Good",
+    "surface": "Turf",
+    "runners": [
+      {
+        "age": 3,
+        "horse_id": 6666815,
+        "name": "Ammes",
+        "dob": "2022-04-05",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Barronstown Stud",
+        "dam": "Crystal Diamond",
+        "dam_region": "GB",
+        "sire": "No Nay Never",
+        "sire_region": "USA",
+        "grandsire": "Scat Daddy",
+        "damsire": "Teofilo",
+        "damsire_region": "IRE",
+        "trainer": "James Owen",
+        "trainer_id": 40072,
+        "trainer_location": "Newmarket, Suffolk",
+        "trainer_14_days": {
+          "runs": 55,
+          "wins": 11,
+          "percent": 20
+        },
+        "owner": "J Melville And A Mehrad",
+        "prev_trainers": null,
+        "prev_owners": [
+          {
+            "owner": "Efex Racing Club",
+            "owner_id": 332102,
+            "change_date": "2025-04-15"
+          }
+        ],
+        "comment": "Placed in 1m3f handicap at Glorious Goodwood this summer; interesting recruit to hurdling",
+        "spotlight": "Useful Flat racer who posted his career-best performance when placed in valuable handicap at Glorious Goodwood (1m3f, good to soft; RPR 94) this summer; gelded last month; looks a very interesting recruit to hurdling.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 1,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 156,
+        "ofr": null,
+        "rpr": null,
+        "ts": null,
+        "jockey": "Sean Bowen",
+        "jockey_id": 93186,
+        "last_run": "(47F)",
+        "form": "",
+        "trainer_rtf": "48",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "32",
+            "last_14_wins": "10",
+            "last_14_wins_pct": "31%",
+            "last_14_profit": "+7.63",
+            "ovr_runs": "49",
+            "ovr_wins": "7",
+            "ovr_wins_pct": "14%",
+            "ovr_profit": "-31.70"
+          },
+          "trainer": {
+            "last_14_runs": "16",
+            "last_14_wins": "6",
+            "last_14_wins_pct": "38%",
+            "last_14_profit": "+2.34",
+            "ovr_runs": "15",
+            "ovr_wins": "5",
+            "ovr_wins_pct": "33%",
+            "ovr_profit": "-1.94"
+          }
+        }
+      },
+      {
+        "age": 3,
+        "horse_id": 6523167,
+        "name": "Genbu",
+        "dob": "2022-03-25",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "GB",
+        "breeder": "Newhall Estate Farm",
+        "dam": "Gypsy Carnival",
+        "dam_region": "GB",
+        "sire": "Kameko",
+        "sire_region": "USA",
+        "grandsire": "Kittens Joy",
+        "damsire": "Trade Fair",
+        "damsire_region": "GB",
+        "trainer": "Sam England",
+        "trainer_id": 31667,
+        "trainer_location": "Guiseley, W Yorks",
+        "trainer_14_days": {
+          "runs": 11,
+          "wins": 1,
+          "percent": 9
+        },
+        "owner": "Ursa Major -England",
+        "prev_trainers": [
+          {
+            "trainer": "Emma Lavelle",
+            "trainer_id": 13116,
+            "change_date": "2025-09-24"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Miss E C Lavelle",
+            "owner_id": 305578,
+            "change_date": "2025-09-24"
+          }
+        ],
+        "comment": "Third on all three hurdling starts for Emma Lavelle this summer; bit more needed here",
+        "spotlight": "Probably ran to similar level of form when third on all three hurdling starts for Emma Lavelle this summer; recently changed hands for 3,200gns; can give another good account on this stable debut but probably needs to improve.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 2,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 156,
+        "ofr": 100,
+        "rpr": 99,
+        "ts": 85,
+        "jockey": "Brendan Powell",
+        "jockey_id": 90406,
+        "last_run": "21",
+        "form": "333",
+        "trainer_rtf": "56",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "2",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "4",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "25%",
+            "last_14_profit": "+7.00",
+            "ovr_runs": "2",
+            "ovr_wins": "0",
+            "ovr_wins_pct": "0%",
+            "ovr_profit": "-2.00"
+          },
+          "trainer": {
+            "last_14_runs": "3",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "33%",
+            "last_14_profit": "+7.00",
+            "ovr_runs": "97",
+            "ovr_wins": "14",
+            "ovr_wins_pct": "14%",
+            "ovr_profit": "-25.45"
+          }
+        }
+      },
+      {
+        "age": 3,
+        "horse_id": 6064550,
+        "name": "In The Minus",
+        "dob": "2022-04-13",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Irish National Stud",
+        "dam": "The Sky Is Blazing",
+        "dam_region": "IRE",
+        "sire": "Belardo",
+        "sire_region": "IRE",
+        "grandsire": "Lope De Vega",
+        "damsire": "Sea The Stars",
+        "damsire_region": "IRE",
+        "trainer": "Brian Francis Cawley",
+        "trainer_id": 31958,
+        "trainer_location": "Craughwell, Co. Galway",
+        "trainer_14_days": {
+          "runs": 2,
+          "wins": 1,
+          "percent": 50
+        },
+        "owner": "Christopher Moran",
+        "prev_trainers": [
+          {
+            "trainer": "Sean Davis",
+            "trainer_id": 40375,
+            "change_date": "2025-07-28"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Ms Sinead O'Scanaill",
+            "owner_id": 359827,
+            "change_date": "2025-07-28"
+          },
+          {
+            "owner": "M Eight Syndicate",
+            "owner_id": 279715,
+            "change_date": "2025-06-30"
+          },
+          {
+            "owner": "Paul A Davis",
+            "owner_id": 315223,
+            "change_date": "2024-11-28"
+          }
+        ],
+        "comment": "Creditable third of 11 at Ballinrobe this month; today's faster ground ought to suit",
+        "spotlight": "Irish raider; just a low-grade handicapper on the Flat but has taken well to hurdling in recent weeks; kept on from off the pace for creditable third of 11 at Ballinrobe (2m2f, soft) 18 days ago and ought to be better suited by the faster ground here; respected.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 3,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 156,
+        "ofr": 107,
+        "rpr": 114,
+        "ts": 100,
+        "jockey": "Shane Fitzgerald",
+        "jockey_id": 100972,
+        "last_run": "18",
+        "form": "43",
+        "trainer_rtf": "100",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "8",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "13%",
+            "last_14_profit": "+7.00",
+            "ovr_runs": "0",
+            "ovr_wins": "0",
+            "ovr_wins_pct": "-",
+            "ovr_profit": "0.00"
+          },
+          "trainer": {
+            "last_14_runs": "1",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "100%",
+            "last_14_profit": "+14.00",
+            "ovr_runs": "3",
+            "ovr_wins": "0",
+            "ovr_wins_pct": "0%",
+            "ovr_profit": "-3.00"
+          }
+        }
+      },
+      {
+        "age": 3,
+        "horse_id": 6425079,
+        "name": "Lunar Orbit",
+        "dob": "2022-03-17",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "ch",
+        "region": "IRE",
+        "breeder": "Ballymaglassan Farm Limited",
+        "dam": "Dealbata",
+        "dam_region": "IRE",
+        "sire": "Sea The Moon",
+        "sire_region": "GER",
+        "grandsire": "Sea The Stars",
+        "damsire": "Dubawi",
+        "damsire_region": "IRE",
+        "trainer": "Warren Greatrex",
+        "trainer_id": 22011,
+        "trainer_location": "Upper Lambourn, Berks",
+        "trainer_14_days": {
+          "runs": 12,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "Jim And Claire Limited",
+        "prev_trainers": null,
+        "prev_owners": null,
+        "comment": "Fairly useful form when placed on the Flat this year; half-brother to a useful jumper",
+        "spotlight": "Disappointed on latest Flat start and is now 0-7 in this sphere but ran to fairly useful level when runner-up in consecutive 1m handicaps in May/June, and it's worth noting he's a half-brother to a useful French jumper.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 4,
+        "draw": 0,
+        "headgear": "h",
+        "headgear_first": "",
+        "lbs": 156,
+        "ofr": null,
+        "rpr": null,
+        "ts": null,
+        "jockey": "James Bowen",
+        "jockey_id": 96830,
+        "last_run": "(68F)",
+        "form": "",
+        "trainer_rtf": "45",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "17",
+            "last_14_wins": "5",
+            "last_14_wins_pct": "29%",
+            "last_14_profit": "+14.40",
+            "ovr_runs": "22",
+            "ovr_wins": "8",
+            "ovr_wins_pct": "36%",
+            "ovr_profit": "+6.89"
+          },
+          "trainer": {
+            "last_14_runs": "3",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-3.00",
+            "ovr_runs": "11",
+            "ovr_wins": "3",
+            "ovr_wins_pct": "27%",
+            "ovr_profit": "+8.00"
+          }
+        }
+      },
+      {
+        "age": 3,
+        "horse_id": 5942436,
+        "name": "Van Aert",
+        "dob": "2022-03-27",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "GB",
+        "breeder": "Jeremy Gompertz",
+        "dam": "Bournemouth Belle",
+        "dam_region": "GB",
+        "sire": "Masar",
+        "sire_region": "IRE",
+        "grandsire": "New Approach",
+        "damsire": "Canford Cliffs",
+        "damsire_region": "IRE",
+        "trainer": "Archie Watson",
+        "trainer_id": 32276,
+        "trainer_location": "Upper Lambourn, W Berks",
+        "trainer_14_days": {
+          "runs": 16,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "Middleham Park Racing Lxxx & Partner",
+        "prev_trainers": null,
+        "prev_owners": null,
+        "comment": "Fair Flat racer; well beaten on hurdle debut but faster ground may aid his cause here",
+        "spotlight": "Fair Flat racer who won 1m4f AW handicap in April (RPR 68); soundly beaten after racing too freely on last month's hurdling debut at Fontwell (good to soft) but might be seen to better effect on the quicker ground here.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 5,
+        "draw": 0,
+        "headgear": "b",
+        "headgear_first": "",
+        "lbs": 156,
+        "ofr": null,
+        "rpr": 80,
+        "ts": 23,
+        "jockey": "Ben Poste",
+        "jockey_id": 88090,
+        "last_run": "32",
+        "form": "5",
+        "trainer_rtf": "50",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "3",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-3.00",
+            "ovr_runs": "9",
+            "ovr_wins": "0",
+            "ovr_wins_pct": "0%",
+            "ovr_profit": "-9.00"
+          },
+          "trainer": {
+            "last_14_runs": "1",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-1.00",
+            "ovr_runs": "6",
+            "ovr_wins": "1",
+            "ovr_wins_pct": "17%",
+            "ovr_profit": "-3.00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "country": "GB",
+    "course": "Sedgefield",
+    "off_time": "4:37",
+    "course_id": 57,
+    "race_id": 902518,
+    "date": "2025-09-30",
+    "race_name": "Micheal Watson Civils & Groundworks Open National Hunt Flat Race (Category 1 Elimination) (GBB Race)",
+    "distance_round": "2m1f",
+    "distance": "2m178y",
+    "distance_f": 17.0,
+    "region": "GB",
+    "pattern": "",
+    "race_class": "Class 4",
+    "type": "NH Flat",
+    "age_band": "4-5yo",
+    "rating_band": null,
+    "prize": "\u00a33,921",
+    "field_size": 9,
+    "going_detailed": "GOOD (Watered; 6.5)",
+    "rail_movements": "",
+    "stalls": "",
+    "weather": "sunny intervals",
+    "going": "Good",
+    "surface": "Turf",
+    "runners": [
+      {
+        "age": 5,
+        "horse_id": 7200253,
+        "name": "Dartmouth Castle",
+        "dob": "2020-05-01",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "GB",
+        "breeder": "T P McMahon &  D McMahon",
+        "dam": "Toboggans Fire",
+        "dam_region": "GB",
+        "sire": "Dartmouth",
+        "sire_region": "GB",
+        "grandsire": "Dubawi",
+        "damsire": "Firebreak",
+        "damsire_region": "GB",
+        "trainer": "Donald Mccain",
+        "trainer_id": 15674,
+        "trainer_location": "Cholmondeley, Cheshire",
+        "trainer_14_days": {
+          "runs": 11,
+          "wins": 2,
+          "percent": 18
+        },
+        "owner": "D Mcmahon",
+        "prev_trainers": null,
+        "prev_owners": null,
+        "comment": "Readily won five-runner C&D bumper by 8l in May; penalised in deeper race today",
+        "spotlight": "Bettered low-key debut when readily winning five-runner C&D (good to firm) contest by 8l in May; penalised in a deeper race today but still features prominently in calculations.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 1,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 163,
+        "ofr": null,
+        "rpr": 109,
+        "ts": 9,
+        "jockey": "Charlie Maggs(5)",
+        "jockey_id": 101500,
+        "last_run": "140",
+        "form": "6-1",
+        "trainer_rtf": "45",
+        "stats": {
+          "course": {
+            "runs": "1",
+            "wins": "1"
+          },
+          "distance": {
+            "runs": "2",
+            "wins": "1"
+          },
+          "going": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "9",
+            "last_14_wins": "2",
+            "last_14_wins_pct": "22%",
+            "last_14_profit": "+6.50",
+            "ovr_runs": "23",
+            "ovr_wins": "2",
+            "ovr_wins_pct": "9%",
+            "ovr_profit": "-16.80"
+          },
+          "trainer": {
+            "last_14_runs": "6",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-6.00",
+            "ovr_runs": "201",
+            "ovr_wins": "48",
+            "ovr_wins_pct": "24%",
+            "ovr_profit": "-10.57"
+          }
+        }
+      },
+      {
+        "age": 5,
+        "horse_id": 6750132,
+        "name": "Dermos Boy",
+        "dob": "2020-04-06",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "ch",
+        "region": "IRE",
+        "breeder": "D O'Connor",
+        "dam": "Booley Bay",
+        "dam_region": "IRE",
+        "sire": "Shirocco",
+        "sire_region": "GER",
+        "grandsire": "Monsun",
+        "damsire": "Gulland",
+        "damsire_region": "GB",
+        "trainer": "Chris Grant",
+        "trainer_id": 10688,
+        "trainer_location": "Billingham, Cleveland",
+        "trainer_14_days": {
+          "runs": 4,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "John Kenny",
+        "prev_trainers": null,
+        "prev_owners": null,
+        "comment": "Just a respectable third of five at Catterick last November and not seen again since",
+        "spotlight": "Half-brother to very useful Irish bumper/jumps winner Gun Digger; just a respectable third of five on debut at Catterick (good) last November and absent since; others have more compelling form.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 2,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 156,
+        "ofr": null,
+        "rpr": 91,
+        "ts": 60,
+        "jockey": "Danny Mcmenamin",
+        "jockey_id": 97855,
+        "last_run": "312",
+        "form": "3-",
+        "trainer_rtf": "",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "10",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-10.00",
+            "ovr_runs": "117",
+            "ovr_wins": "14",
+            "ovr_wins_pct": "12%",
+            "ovr_profit": "+11.79"
+          },
+          "trainer": {
+            "last_14_runs": "1",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-1.00",
+            "ovr_runs": "103",
+            "ovr_wins": "9",
+            "ovr_wins_pct": "9%",
+            "ovr_profit": "-20.04"
+          }
+        }
+      },
+      {
+        "age": 4,
+        "horse_id": 8179386,
+        "name": "Church Lane Lad",
+        "dob": "2021-05-02",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "gr",
+        "region": "IRE",
+        "breeder": "James W Hannon",
+        "dam": "Queen Khaleesi",
+        "dam_region": "IRE",
+        "sire": "Cloudings",
+        "sire_region": "IRE",
+        "grandsire": "Sadlers Wells",
+        "damsire": "Kalanisi",
+        "damsire_region": "IRE",
+        "trainer": "Patrick Neville",
+        "trainer_id": 19966,
+        "trainer_location": "Coverham, N Yorks",
+        "trainer_14_days": {
+          "runs": 11,
+          "wins": 2,
+          "percent": 18
+        },
+        "owner": "Miss Maxine Chantry & Partners",
+        "prev_trainers": null,
+        "prev_owners": [
+          {
+            "owner": "Miss Maxine Chantry & Patrick Neville",
+            "owner_id": 362574,
+            "change_date": "2025-09-26"
+          }
+        ],
+        "comment": "Out of an Irish 2m4f hurdle winner; stable not prolific in bumpers",
+        "spotlight": "Second foal; dam Irish 2m4f hurdle winner, half-sister to two winning jumpers; trainer just 1-21 in bumpers during last five seasons; considered only if lively in the betting.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 3,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 154,
+        "ofr": null,
+        "rpr": null,
+        "ts": null,
+        "jockey": "Brian Hughes",
+        "jockey_id": 81409,
+        "last_run": "",
+        "form": "",
+        "trainer_rtf": "91",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "18",
+            "last_14_wins": "4",
+            "last_14_wins_pct": "22%",
+            "last_14_profit": "+10.38",
+            "ovr_runs": "270",
+            "ovr_wins": "69",
+            "ovr_wins_pct": "26%",
+            "ovr_profit": "-20.62"
+          },
+          "trainer": {
+            "last_14_runs": "10",
+            "last_14_wins": "2",
+            "last_14_wins_pct": "20%",
+            "last_14_profit": "-2.63",
+            "ovr_runs": "20",
+            "ovr_wins": "0",
+            "ovr_wins_pct": "0%",
+            "ovr_profit": "-20.00"
+          }
+        }
+      },
+      {
+        "age": 4,
+        "horse_id": 8179384,
+        "name": "Ponteland",
+        "dob": "2021-05-09",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "GB",
+        "breeder": "Miss S J Turner",
+        "dam": "Red Hibiscus",
+        "dam_region": "GB",
+        "sire": "Mondialiste",
+        "sire_region": "IRE",
+        "grandsire": "Galileo",
+        "damsire": "Manduro",
+        "damsire_region": "GER",
+        "trainer": "Rebecca Menzies",
+        "trainer_id": 28511,
+        "trainer_location": "Morden, Durham",
+        "trainer_14_days": {
+          "runs": 29,
+          "wins": 2,
+          "percent": 7
+        },
+        "owner": "Miss R E A Menzies",
+        "prev_trainers": null,
+        "prev_owners": null,
+        "comment": "Half-brother to bumper/useful jumps winner Casa No Mento; market helpful on debut",
+        "spotlight": "Fifth foal; half-brother to bumper/useful jumps winner Casa No Mento and two other hurdle winners; dam unraced half-sister to useful jumper Samstown; trainer has just a respectable bumper strike-rate; market helpful.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 4,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 154,
+        "ofr": null,
+        "rpr": null,
+        "ts": null,
+        "jockey": "Nathan Moscrop",
+        "jockey_id": 86357,
+        "last_run": "",
+        "form": "",
+        "trainer_rtf": "44",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "5",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "20%",
+            "last_14_profit": "-2.38",
+            "ovr_runs": "80",
+            "ovr_wins": "7",
+            "ovr_wins_pct": "9%",
+            "ovr_profit": "-46.43"
+          },
+          "trainer": {
+            "last_14_runs": "10",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "10%",
+            "last_14_profit": "-1.00",
+            "ovr_runs": "126",
+            "ovr_wins": "17",
+            "ovr_wins_pct": "13%",
+            "ovr_profit": "-45.59"
+          }
+        }
+      },
+      {
+        "age": 4,
+        "horse_id": 7529896,
+        "name": "Salvador King",
+        "dob": "2021-04-06",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Henry Chamney",
+        "dam": "Victors Girl",
+        "dam_region": "IRE",
+        "sire": "El Salvador",
+        "sire_region": "IRE",
+        "grandsire": "Galileo",
+        "damsire": "Pilsudski",
+        "damsire_region": "IRE",
+        "trainer": "Maurice Barnes",
+        "trainer_id": 4087,
+        "trainer_location": "Farlam, Cumbria",
+        "trainer_14_days": {
+          "runs": 0,
+          "wins": 0,
+          "percent": null
+        },
+        "owner": "K And L Fitzsimons And M Barnes",
+        "prev_trainers": null,
+        "prev_owners": null,
+        "comment": "Soundly beaten in Irish point debut in May; bought for \u00a31,500 in the summer",
+        "spotlight": "Third foal from a point winner; soundly beaten on Irish point debut in June and, having changes hands for \u00a31,500, can only be watched on this rules debut.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 5,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 154,
+        "ofr": null,
+        "rpr": null,
+        "ts": null,
+        "jockey": "Charlie Price(3)",
+        "jockey_id": 95646,
+        "last_run": "(135P)",
+        "form": "6",
+        "trainer_rtf": "",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "2",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-2.00",
+            "ovr_runs": "3",
+            "ovr_wins": "0",
+            "ovr_wins_pct": "0%",
+            "ovr_profit": "-3.00"
+          },
+          "trainer": {
+            "last_14_runs": "0",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "-",
+            "last_14_profit": "0.00",
+            "ovr_runs": "32",
+            "ovr_wins": "1",
+            "ovr_wins_pct": "3%",
+            "ovr_profit": "+69.00"
+          }
+        }
+      },
+      {
+        "age": 4,
+        "horse_id": 6256658,
+        "name": "Siouxfonic",
+        "dob": "2021-04-25",
+        "sex": "rig",
+        "sex_code": "R",
+        "colour": "br",
+        "region": "IRE",
+        "breeder": "Zcjd Bloodstock",
+        "dam": "Velvet Ribbon",
+        "dam_region": "IRE",
+        "sire": "Sioux Nation",
+        "sire_region": "USA",
+        "grandsire": "Scat Daddy",
+        "damsire": "Duke Of Marmalade",
+        "damsire_region": "IRE",
+        "trainer": "James Owen",
+        "trainer_id": 40072,
+        "trainer_location": "Newmarket, Suffolk",
+        "trainer_14_days": {
+          "runs": 55,
+          "wins": 11,
+          "percent": 20
+        },
+        "owner": "Cambrianway Ltd",
+        "prev_trainers": [
+          {
+            "trainer": "Thomas Cooper",
+            "trainer_id": 4406,
+            "change_date": "2025-08-12"
+          },
+          {
+            "trainer": "Adrian Paul Keatley",
+            "trainer_id": 29513,
+            "change_date": "2025-06-26"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Denis Gallagher Racing",
+            "owner_id": 326545,
+            "change_date": "2025-08-12"
+          },
+          {
+            "owner": "Mrs Edelle Logan",
+            "owner_id": 339969,
+            "change_date": "2025-06-26"
+          }
+        ],
+        "comment": "Second of 16 on debut in Ireland; only third when odds-on for new yard; tongue-tie back on",
+        "spotlight": "Joined James Owen after creditable second of 16 on debut at Tipperary (good to yielding; winner looked useful over hurdles next time) in July; weakened on run-in and had to settle for third when odds-on for last month's stable debut at Worcester (good) but the refitted tongue-tie could make a big difference here and he remains of strong interest.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 6,
+        "draw": 0,
+        "headgear": "t",
+        "headgear_first": "",
+        "lbs": 154,
+        "ofr": null,
+        "rpr": 109,
+        "ts": 47,
+        "jockey": "Sean Bowen",
+        "jockey_id": 93186,
+        "last_run": "30",
+        "form": "23",
+        "trainer_rtf": "48",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "2",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "32",
+            "last_14_wins": "10",
+            "last_14_wins_pct": "31%",
+            "last_14_profit": "+7.63",
+            "ovr_runs": "49",
+            "ovr_wins": "7",
+            "ovr_wins_pct": "14%",
+            "ovr_profit": "-31.70"
+          },
+          "trainer": {
+            "last_14_runs": "16",
+            "last_14_wins": "6",
+            "last_14_wins_pct": "38%",
+            "last_14_profit": "+2.34",
+            "ovr_runs": "15",
+            "ovr_wins": "5",
+            "ovr_wins_pct": "33%",
+            "ovr_profit": "-1.94"
+          }
+        }
+      },
+      {
+        "age": 4,
+        "horse_id": 7983201,
+        "name": "Valenciaga",
+        "dob": "2021-04-22",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Ray Townsend",
+        "dam": "Reconbustible",
+        "dam_region": "IRE",
+        "sire": "Valirann",
+        "sire_region": "FR",
+        "grandsire": "Nayef",
+        "damsire": "Mr Combustible",
+        "damsire_region": "IRE",
+        "trainer": "John C Mcconnell",
+        "trainer_id": 14751,
+        "trainer_location": "Stamullen, Co Meath",
+        "trainer_14_days": {
+          "runs": 40,
+          "wins": 4,
+          "percent": 10
+        },
+        "owner": "Peadar Fallon",
+        "prev_trainers": null,
+        "prev_owners": null,
+        "comment": "Quite promising fourth at Perth last month; Irish yard does well in British bumpers",
+        "spotlight": "From Irish stable with 8-27 (30%) strike-rate in British bumpers during last five seasons; dropped to fourth after making the running at Perth (good) last month but that was still a promising debut, and the new tongue-tie may aid his finishing effort here.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 7,
+        "draw": 0,
+        "headgear": "t",
+        "headgear_first": "1",
+        "lbs": 154,
+        "ofr": null,
+        "rpr": 108,
+        "ts": 82,
+        "jockey": "Callum Pritchard(5)",
+        "jockey_id": 102437,
+        "last_run": "45",
+        "form": "4",
+        "trainer_rtf": "34",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "4",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-4.00",
+            "ovr_runs": "1",
+            "ovr_wins": "0",
+            "ovr_wins_pct": "0%",
+            "ovr_profit": "-1.00"
+          },
+          "trainer": {
+            "last_14_runs": "19",
+            "last_14_wins": "4",
+            "last_14_wins_pct": "21%",
+            "last_14_profit": "-7.02",
+            "ovr_runs": "16",
+            "ovr_wins": "4",
+            "ovr_wins_pct": "25%",
+            "ovr_profit": "-6.08"
+          }
+        }
+      },
+      {
+        "age": 5,
+        "horse_id": 7238294,
+        "name": "Card Lady",
+        "dob": "2020-03-29",
+        "sex": "mare",
+        "sex_code": "M",
+        "colour": "b",
+        "region": "GB",
+        "breeder": "Mrs J U Hales",
+        "dam": "Card Game",
+        "dam_region": "IRE",
+        "sire": "Sir Percy",
+        "sire_region": "GB",
+        "grandsire": "Mark Of Esteem",
+        "damsire": "Scorpion",
+        "damsire_region": "IRE",
+        "trainer": "Ruth Jefferson",
+        "trainer_id": 34251,
+        "trainer_location": "Norton, N Yorks",
+        "trainer_14_days": {
+          "runs": 0,
+          "wins": 0,
+          "percent": null
+        },
+        "owner": "Claxby & Co",
+        "prev_trainers": null,
+        "prev_owners": null,
+        "comment": "Out of a useful hurdler for these connections but made low-key debut here in March",
+        "spotlight": "First foal from a useful 2m-2m4f hurdle winner for these connections; made disappointing debut when well-held fifth over C&D (good) in March and needs to take a big step forward.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 8,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 149,
+        "ofr": null,
+        "rpr": 97,
+        "ts": 80,
+        "jockey": "Jamie Hamilton",
+        "jockey_id": 90517,
+        "last_run": "203",
+        "form": "5-",
+        "trainer_rtf": "",
+        "stats": {
+          "course": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "5",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "20%",
+            "last_14_profit": "0.00",
+            "ovr_runs": "98",
+            "ovr_wins": "10",
+            "ovr_wins_pct": "10%",
+            "ovr_profit": "-33.28"
+          },
+          "trainer": {
+            "last_14_runs": "0",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "-",
+            "last_14_profit": "0.00",
+            "ovr_runs": "16",
+            "ovr_wins": "4",
+            "ovr_wins_pct": "25%",
+            "ovr_profit": "+3.48"
+          }
+        }
+      },
+      {
+        "age": 4,
+        "horse_id": 8179387,
+        "name": "Amber Dhaling",
+        "dob": "2021-05-11",
+        "sex": "filly",
+        "sex_code": "F",
+        "colour": "ch",
+        "region": "GB",
+        "breeder": "Brian Rothwell",
+        "dam": "Yawail",
+        "dam_region": "GB",
+        "sire": "Rajasinghe",
+        "sire_region": "IRE",
+        "grandsire": "Choisir",
+        "damsire": "Medicean",
+        "damsire_region": "GB",
+        "trainer": "Brian Rothwell",
+        "trainer_id": 5696,
+        "trainer_location": "Oswaldkirk, N Yorks",
+        "trainer_14_days": {
+          "runs": 3,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "Kirkella Racing And Brian Rothwell",
+        "prev_trainers": null,
+        "prev_owners": null,
+        "comment": "Fifth foal; dam placed on the Flat; makes very limited appeal on paper",
+        "spotlight": "Fifth foal; dam placed on the Flat (RPR 62), half-sister to 1m-1m4f Flat winner Cautious Approach; stable 0-10 in bumpers during last five seasons (all unplaced); makes very limited appeal on paper.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 9,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 147,
+        "ofr": null,
+        "rpr": null,
+        "ts": null,
+        "jockey": "William Maggs(5)",
+        "jockey_id": 101507,
+        "last_run": "",
+        "form": "",
+        "trainer_rtf": "33",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "3",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-3.00",
+            "ovr_runs": "34",
+            "ovr_wins": "6",
+            "ovr_wins_pct": "18%",
+            "ovr_profit": "+3.58"
+          },
+          "trainer": {
+            "last_14_runs": "0",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "-",
+            "last_14_profit": "0.00",
+            "ovr_runs": "8",
+            "ovr_wins": "0",
+            "ovr_wins_pct": "0%",
+            "ovr_profit": "-8.00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "country": "GB",
+    "course": "Sedgefield",
+    "off_time": "3:37",
+    "course_id": 57,
+    "race_id": 902519,
+    "date": "2025-09-30",
+    "race_name": "Paxtons No1 For CaseIH Handicap Hurdle (Go North Cab On Target Series Qualifier)",
+    "distance_round": "2m4f",
+    "distance": "2m3f188y",
+    "distance_f": 20.0,
+    "region": "GB",
+    "pattern": "",
+    "race_class": "Class 5",
+    "type": "Hurdle",
+    "age_band": "3yo+",
+    "rating_band": "0-100",
+    "prize": "\u00a33,248",
+    "field_size": 12,
+    "going_detailed": "GOOD (Watered; 6.5)",
+    "rail_movements": "",
+    "stalls": "",
+    "weather": "sunny intervals",
+    "going": "Good",
+    "surface": "Turf",
+    "runners": [
+      {
+        "age": 7,
+        "horse_id": 4211311,
+        "name": "Our Laura B",
+        "dob": "2018-05-10",
+        "sex": "mare",
+        "sex_code": "M",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "The Beeches Stud Ltd",
+        "dam": "Dear Bach",
+        "dam_region": "IRE",
+        "sire": "Sans Frontieres",
+        "sire_region": "IRE",
+        "grandsire": "Galileo",
+        "damsire": "Bach",
+        "damsire_region": "IRE",
+        "trainer": "Ben Haslam",
+        "trainer_id": 22367,
+        "trainer_location": "Middleham Moor, N Yorks",
+        "trainer_14_days": {
+          "runs": 8,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "Racing Knights",
+        "prev_trainers": null,
+        "prev_owners": [
+          {
+            "owner": "D Barry",
+            "owner_id": 168901,
+            "change_date": "2022-11-16"
+          }
+        ],
+        "comment": "Well handicapped on old form but was pulled up last month, after a long absence",
+        "spotlight": "Well handicapped on old form and suited by this C&D but was pulled up last month, after a long absence, and needs to have taken significant benefit from that outing.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 1,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 168,
+        "ofr": 98,
+        "rpr": 101,
+        "ts": null,
+        "jockey": "Richie Mclernon",
+        "jockey_id": 83698,
+        "last_run": "36",
+        "form": "/444-P",
+        "trainer_rtf": "13",
+        "stats": {
+          "course": {
+            "runs": "4",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "6",
+            "wins": "2"
+          },
+          "going": {
+            "runs": "7",
+            "wins": "1"
+          },
+          "jockey": {
+            "last_14_runs": "10",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "10%",
+            "last_14_profit": "-4.00",
+            "ovr_runs": "75",
+            "ovr_wins": "6",
+            "ovr_wins_pct": "8%",
+            "ovr_profit": "-10.64"
+          },
+          "trainer": {
+            "last_14_runs": "1",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-1.00",
+            "ovr_runs": "89",
+            "ovr_wins": "9",
+            "ovr_wins_pct": "10%",
+            "ovr_profit": "-17.89"
+          }
+        }
+      },
+      {
+        "age": 6,
+        "horse_id": 4948261,
+        "name": "Jackpot Dathou",
+        "dob": "2019-04-06",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "ch",
+        "region": "FR",
+        "breeder": "Mrs Marie-Josee Corbin",
+        "dam": "Victoire Dathom",
+        "dam_region": "FR",
+        "sire": "Doctor Dino",
+        "sire_region": "FR",
+        "grandsire": "Muhtathir",
+        "damsire": "Ange Gabriel",
+        "damsire_region": "FR",
+        "trainer": "Henry Hogarth",
+        "trainer_id": 12210,
+        "trainer_location": "Stillington, N Yorks",
+        "trainer_14_days": {
+          "runs": 1,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "Hogarth Racing",
+        "prev_trainers": [
+          {
+            "trainer": "Paul Nicholls",
+            "trainer_id": 5767,
+            "change_date": "2025-06-30"
+          },
+          {
+            "trainer": "Alain Couetil",
+            "trainer_id": 17733,
+            "change_date": "2023-03-13"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Ferguson, Hogarth, Mason, McGoff",
+            "owner_id": 351387,
+            "change_date": "2025-06-30"
+          },
+          {
+            "owner": "Giles, Ferguson, Hogarth, Mason, McGoff",
+            "owner_id": 328537,
+            "change_date": "2024-11-05"
+          },
+          {
+            "owner": "Mme Marie-Jose Corbin",
+            "owner_id": 169204,
+            "change_date": "2023-03-13"
+          }
+        ],
+        "comment": "Ended last season in poor form for Paul Nicholls and made low-key stable debut in July",
+        "spotlight": "Ended last season in poor form for Paul Nicholls and was safely held on stable debut in July; continues to slip down the weights but needs a revival.",
+        "medical": [
+          {
+            "date": "2024-08-06",
+            "type": "Wind Surgery"
+          },
+          {
+            "date": "2023-07-19",
+            "type": "Wind Surgery"
+          }
+        ],
+        "quotes": null,
+        "stable_tour": [
+          {
+            "horse": "Jackpot d'Athou",
+            "horse_id": 4948261,
+            "quote": "Despite winning twice from four starts, his form over hurdles lacked consistency last season; he's a good workhorse at home but we haven't yet seen him reproduce it on the track. We fancied him strongly when he finished last in a handicap up at Ayr on his final start, and to this day I haven't the faintest idea why he ran so badly. His wind wasn't great, so we've had that tweaked over the summer. His mark of 121 is one I think we can win off. 04-11-24"
+          }
+        ],
+        "number": 2,
+        "draw": 0,
+        "headgear": "p",
+        "headgear_first": "",
+        "lbs": 168,
+        "ofr": 98,
+        "rpr": 100,
+        "ts": 58,
+        "jockey": "Ryan Mania",
+        "jockey_id": 86359,
+        "last_run": "86",
+        "form": "6P6P-5",
+        "trainer_rtf": "",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "2",
+            "wins": "1"
+          },
+          "going": {
+            "runs": "3",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "0",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "-",
+            "last_14_profit": "0.00",
+            "ovr_runs": "33",
+            "ovr_wins": "3",
+            "ovr_wins_pct": "9%",
+            "ovr_profit": "-13.00"
+          },
+          "trainer": {
+            "last_14_runs": "1",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-1.00",
+            "ovr_runs": "13",
+            "ovr_wins": "2",
+            "ovr_wins_pct": "15%",
+            "ovr_profit": "+8.50"
+          }
+        }
+      },
+      {
+        "age": 6,
+        "horse_id": 3772682,
+        "name": "Reel Rosie",
+        "dob": "2019-03-24",
+        "sex": "mare",
+        "sex_code": "M",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Oldcourt Stud",
+        "dam": "Lady Canford",
+        "dam_region": "IRE",
+        "sire": "Highland Reel",
+        "sire_region": "IRE",
+        "grandsire": "Galileo",
+        "damsire": "Canford Cliffs",
+        "damsire_region": "IRE",
+        "trainer": "Jennie Candlish",
+        "trainer_id": 15552,
+        "trainer_location": "Basford, Staffs",
+        "trainer_14_days": {
+          "runs": 25,
+          "wins": 6,
+          "percent": 24
+        },
+        "owner": "The Reel Wheelers And Dealers",
+        "prev_trainers": [
+          {
+            "trainer": "Donald McCain",
+            "trainer_id": 15674,
+            "change_date": "2024-08-30"
+          },
+          {
+            "trainer": "Hugo Palmer",
+            "trainer_id": 25009,
+            "change_date": "2024-01-19"
+          },
+          {
+            "trainer": "Edward Bethell",
+            "trainer_id": 38073,
+            "change_date": "2023-08-31"
+          }
+        ],
+        "prev_owners": null,
+        "comment": "Latest run was a step back in the right direction and her only hurdle win was over C&D",
+        "spotlight": "Not firing on all cylinders this year but her respectable fifth at Uttoxeter (2m4f, good) 19 days ago was a step back in the right direction and it's worth remembering that her only hurdle win was gained over this C&D.",
+        "quotes": null,
+        "stable_tour": [
+          {
+            "horse": "Reel Rosie",
+            "horse_id": 3772682,
+            "quote": "She won a mares' novice hurdle at Sedgefield in mid-November and we're looking to find a similar race in the next two weeks, in which she can maybe defy a penalty and then go down the handicap route. She's owned by a great little syndicate and hopefully she's lucky for them. Her best trip appears to be 2m4f. 05-12-24"
+          }
+        ],
+        "number": 3,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 167,
+        "ofr": 97,
+        "rpr": 104,
+        "ts": 60,
+        "jockey": "William Shanahan(5)",
+        "jockey_id": 91573,
+        "last_run": "19",
+        "form": "36-6F5",
+        "trainer_rtf": "68",
+        "stats": {
+          "course": {
+            "runs": "3",
+            "wins": "1"
+          },
+          "distance": {
+            "runs": "3",
+            "wins": "1"
+          },
+          "going": {
+            "runs": "5",
+            "wins": "1"
+          },
+          "jockey": {
+            "last_14_runs": "1",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-1.00",
+            "ovr_runs": "18",
+            "ovr_wins": "3",
+            "ovr_wins_pct": "17%",
+            "ovr_profit": "+1.13"
+          },
+          "trainer": {
+            "last_14_runs": "8",
+            "last_14_wins": "2",
+            "last_14_wins_pct": "25%",
+            "last_14_profit": "-2.63",
+            "ovr_runs": "94",
+            "ovr_wins": "17",
+            "ovr_wins_pct": "18%",
+            "ovr_profit": "-28.31"
+          }
+        }
+      },
+      {
+        "age": 6,
+        "horse_id": 5085230,
+        "name": "Vanilla Dancer",
+        "dob": "2019-05-11",
+        "sex": "mare",
+        "sex_code": "M",
+        "colour": "b",
+        "region": "GB",
+        "breeder": "T C Dawson",
+        "dam": "Vanilla Delight",
+        "dam_region": "IRE",
+        "sire": "Dragon Dancer",
+        "sire_region": "GB",
+        "grandsire": "Sadlers Wells",
+        "damsire": "Orpen",
+        "damsire_region": "USA",
+        "trainer": "Chris Grant",
+        "trainer_id": 10688,
+        "trainer_location": "Billingham, Cleveland",
+        "trainer_14_days": {
+          "runs": 2,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "Garry Thexton & Chris Grant",
+        "prev_trainers": null,
+        "prev_owners": [
+          {
+            "owner": "Chris Grant",
+            "owner_id": 58098,
+            "change_date": "2023-11-22"
+          }
+        ],
+        "comment": "Suited by this C&D but has 0-13 strike-rate over hurdles and has been absent since May",
+        "spotlight": "Suited by this C&D but has 0-13 strike-rate over hurdles and has been absent since a below-par run in May; others appeal more.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 4,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 163,
+        "ofr": 93,
+        "rpr": 101,
+        "ts": 69,
+        "jockey": "Danny Mcmenamin",
+        "jockey_id": 97855,
+        "last_run": "127",
+        "form": "353-37",
+        "trainer_rtf": "",
+        "stats": {
+          "course": {
+            "runs": "9",
+            "wins": "1"
+          },
+          "distance": {
+            "runs": "8",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "9",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "10",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-10.00",
+            "ovr_runs": "117",
+            "ovr_wins": "14",
+            "ovr_wins_pct": "12%",
+            "ovr_profit": "+11.79"
+          },
+          "trainer": {
+            "last_14_runs": "1",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-1.00",
+            "ovr_runs": "103",
+            "ovr_wins": "9",
+            "ovr_wins_pct": "9%",
+            "ovr_profit": "-20.04"
+          }
+        }
+      },
+      {
+        "age": 5,
+        "horse_id": 58950416,
+        "name": "Snapaudaciaheros",
+        "dob": "2020-03-16",
+        "sex": "mare",
+        "sex_code": "M",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "J P Farrell",
+        "dam": "Pedisnap",
+        "dam_region": "IRE",
+        "sire": "Elusive Pimpernel",
+        "sire_region": "USA",
+        "grandsire": "Elusive Quality",
+        "damsire": "Footstepsinthesand",
+        "damsire_region": "GB",
+        "trainer": "Rebecca Menzies",
+        "trainer_id": 28511,
+        "trainer_location": "Morden, Durham",
+        "trainer_14_days": {
+          "runs": 28,
+          "wins": 2,
+          "percent": 7
+        },
+        "owner": "Weight, Howe & Oliver",
+        "prev_trainers": null,
+        "prev_owners": [
+          {
+            "owner": "Miss R E A Menzies",
+            "owner_id": 169996,
+            "change_date": "2024-11-16"
+          }
+        ],
+        "comment": "Has not shown a great deal over hurdles but may yet deliver on bumper promise",
+        "spotlight": "Did not show a great deal in her three qualifying races over hurdles last season (2m1f-2m3f) but moves into a handicap on a lowly mark and may yet deliver on her bumper promise.",
+        "quotes": null,
+        "stable_tour": [
+          {
+            "horse": "Snapaudaciaheros",
+            "horse_id": 58950416,
+            "quote": "I quite like her sire and she's been placed in two bumpers, with the form of her Southwell second looking quite good. She's improved for a summer break and will probably run in one more bumper before going hurdling. 16-10-24"
+          }
+        ],
+        "number": 5,
+        "draw": 0,
+        "headgear": "h",
+        "headgear_first": "",
+        "lbs": 159,
+        "ofr": 89,
+        "rpr": 97,
+        "ts": 61,
+        "jockey": "Nathan Moscrop",
+        "jockey_id": 86357,
+        "last_run": "229",
+        "form": "23875-",
+        "trainer_rtf": "43",
+        "stats": {
+          "course": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "3",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "5",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "20%",
+            "last_14_profit": "-2.38",
+            "ovr_runs": "80",
+            "ovr_wins": "7",
+            "ovr_wins_pct": "9%",
+            "ovr_profit": "-46.43"
+          },
+          "trainer": {
+            "last_14_runs": "10",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-10.00",
+            "ovr_runs": "127",
+            "ovr_wins": "17",
+            "ovr_wins_pct": "13%",
+            "ovr_profit": "-46.59"
+          }
+        }
+      },
+      {
+        "age": 9,
+        "horse_id": 3046819,
+        "name": "Zamond",
+        "dob": "2016-04-26",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "FR",
+        "breeder": "S C E A Ecurie Biraben Et Al",
+        "dam": "Cosavita",
+        "dam_region": "FR",
+        "sire": "Diamond Green",
+        "sire_region": "FR",
+        "grandsire": "Green Desert",
+        "damsire": "Comte Du Bourg",
+        "damsire_region": "FR",
+        "trainer": "Donald Mccain",
+        "trainer_id": 15674,
+        "trainer_location": "Cholmondeley, Cheshire",
+        "trainer_14_days": {
+          "runs": 11,
+          "wins": 2,
+          "percent": 18
+        },
+        "owner": "Hale Racing & Lyle Farming Company",
+        "prev_trainers": [
+          {
+            "trainer": "Colin Bowe",
+            "trainer_id": 22361,
+            "change_date": "2021-10-15"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Hale Racing & The Lyle Family",
+            "owner_id": 331062,
+            "change_date": "2025-06-25"
+          },
+          {
+            "owner": "Hale Racing, The Lyle Family & Partner",
+            "owner_id": 318109,
+            "change_date": "2023-05-16"
+          },
+          {
+            "owner": "D McCain Jnr",
+            "owner_id": 115806,
+            "change_date": "2022-05-28"
+          },
+          {
+            "owner": "T G Leslie",
+            "owner_id": 169407,
+            "change_date": "2022-04-30"
+          },
+          {
+            "owner": "D McCain Jnr",
+            "owner_id": 115806,
+            "change_date": "2022-04-12"
+          }
+        ],
+        "comment": "Went close at Bangor this month and has now been placed on last three appearances",
+        "spotlight": "Placed on last three of four starts since returning from long absence this summer, most recently when close second at Bangor (2m3f, good) this month; likely contender again.",
+        "medical": [
+          {
+            "date": "2022-08-30",
+            "type": "Wind Surgery"
+          }
+        ],
+        "quotes": null,
+        "stable_tour": null,
+        "number": 6,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 158,
+        "ofr": 88,
+        "rpr": 104,
+        "ts": 95,
+        "jockey": "Brian Hughes",
+        "jockey_id": 81409,
+        "last_run": "25",
+        "form": "P/5332",
+        "trainer_rtf": "45",
+        "stats": {
+          "course": {
+            "runs": "3",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "6",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "20",
+            "wins": "3"
+          },
+          "jockey": {
+            "last_14_runs": "18",
+            "last_14_wins": "4",
+            "last_14_wins_pct": "22%",
+            "last_14_profit": "+10.38",
+            "ovr_runs": "270",
+            "ovr_wins": "69",
+            "ovr_wins_pct": "26%",
+            "ovr_profit": "-20.62"
+          },
+          "trainer": {
+            "last_14_runs": "6",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-6.00",
+            "ovr_runs": "201",
+            "ovr_wins": "48",
+            "ovr_wins_pct": "24%",
+            "ovr_profit": "-10.57"
+          }
+        }
+      },
+      {
+        "age": 9,
+        "horse_id": 4105582,
+        "name": "Bella Union",
+        "dob": "2016-07-19",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Railside Farm",
+        "dam": "Missusan",
+        "dam_region": "IRE",
+        "sire": "Mahler",
+        "sire_region": "GB",
+        "grandsire": "Galileo",
+        "damsire": "Kings Ride",
+        "damsire_region": "IRE",
+        "trainer": "John C Mcconnell",
+        "trainer_id": 14751,
+        "trainer_location": "Stamullen, Co Meath",
+        "trainer_14_days": {
+          "runs": 40,
+          "wins": 4,
+          "percent": 10
+        },
+        "owner": "Derek Kierans",
+        "prev_trainers": null,
+        "prev_owners": null,
+        "comment": "Shaped well before fading into sixth at Perth this month; represents respected Irish yard",
+        "spotlight": "0-12 over hurdles but shaped well before fading into sixth at Perth (2m4f, good) this month; respected Irish trainer enlists Sean Bowen and first-time cheekpieces here; must be considered.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 7,
+        "draw": 0,
+        "headgear": "p",
+        "headgear_first": "1",
+        "lbs": 158,
+        "ofr": 88,
+        "rpr": 101,
+        "ts": 88,
+        "jockey": "Sean Bowen",
+        "jockey_id": 93186,
+        "last_run": "22",
+        "form": "045-76",
+        "trainer_rtf": "37",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "8",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "5",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "32",
+            "last_14_wins": "10",
+            "last_14_wins_pct": "31%",
+            "last_14_profit": "+7.63",
+            "ovr_runs": "49",
+            "ovr_wins": "7",
+            "ovr_wins_pct": "14%",
+            "ovr_profit": "-31.70"
+          },
+          "trainer": {
+            "last_14_runs": "19",
+            "last_14_wins": "4",
+            "last_14_wins_pct": "21%",
+            "last_14_profit": "-7.02",
+            "ovr_runs": "16",
+            "ovr_wins": "4",
+            "ovr_wins_pct": "25%",
+            "ovr_profit": "-6.08"
+          }
+        }
+      },
+      {
+        "age": 5,
+        "horse_id": 6451109,
+        "name": "Snitterfield",
+        "dob": "2020-02-08",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Aiden Murphy",
+        "dam": "Leading On",
+        "dam_region": "GB",
+        "sire": "Diamond Boy",
+        "sire_region": "FR",
+        "grandsire": "Mansonnien",
+        "damsire": "Presenting",
+        "damsire_region": "GB",
+        "trainer": "Jake Thomas Coulson",
+        "trainer_id": 29500,
+        "trainer_location": "Heaton, Cheshire",
+        "trainer_14_days": {
+          "runs": 0,
+          "wins": 0,
+          "percent": null
+        },
+        "owner": "The Carter Family",
+        "prev_trainers": [
+          {
+            "trainer": "Olly Murphy",
+            "trainer_id": 33553,
+            "change_date": "2024-10-03"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Nick Carter",
+            "owner_id": 218387,
+            "change_date": "2025-09-23"
+          },
+          {
+            "owner": "Olly Murphy Racing Club",
+            "owner_id": 252457,
+            "change_date": "2024-10-03"
+          },
+          {
+            "owner": "Aiden Murphy",
+            "owner_id": 84058,
+            "change_date": "2024-09-13"
+          }
+        ],
+        "comment": "Tailed off at Worcester last month and now 0-6 over hurdles; headgear switched here",
+        "spotlight": "Tailed off when 50-1 for 2m7f Worcester handicap last month and has now been unplaced all six hurdling starts; swaps hood for first-time cheekpieces and drops back in trip here.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 8,
+        "draw": 0,
+        "headgear": "p",
+        "headgear_first": "1",
+        "lbs": 156,
+        "ofr": 86,
+        "rpr": 102,
+        "ts": 20,
+        "jockey": "Sean Grantham(10)",
+        "jockey_id": 104022,
+        "last_run": "30",
+        "form": "658-U9",
+        "trainer_rtf": "",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "6",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "0",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "-",
+            "last_14_profit": "0.00",
+            "ovr_runs": "0",
+            "ovr_wins": "0",
+            "ovr_wins_pct": "-",
+            "ovr_profit": "0.00"
+          },
+          "trainer": {
+            "last_14_runs": "0",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "-",
+            "last_14_profit": "0.00",
+            "ovr_runs": "5",
+            "ovr_wins": "0",
+            "ovr_wins_pct": "0%",
+            "ovr_profit": "-5.00"
+          }
+        }
+      },
+      {
+        "age": 5,
+        "horse_id": 6692977,
+        "name": "Smart Bucks",
+        "dob": "2020-04-27",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "GB",
+        "breeder": "Philip & Philippa Kirby",
+        "dam": "Lady Westerner",
+        "dam_region": "GB",
+        "sire": "Bucks Boum",
+        "sire_region": "FR",
+        "grandsire": "Cadoudal",
+        "damsire": "Westerner",
+        "damsire_region": "GB",
+        "trainer": "Philip Kirby",
+        "trainer_id": 18875,
+        "trainer_location": "East Appleton, N Yorks",
+        "trainer_14_days": {
+          "runs": 20,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "The From Day One Syndicate",
+        "prev_trainers": null,
+        "prev_owners": null,
+        "comment": "Well beaten in three maiden hurdles towards end of last season; handicap debut today",
+        "spotlight": "Well beaten in three maiden hurdles towards end of last season (2m3f-2m4f) but might get more competitive now switched to a low-grade handicap.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 9,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 151,
+        "ofr": 81,
+        "rpr": 86,
+        "ts": 46,
+        "jockey": "Joe Williamson(3)",
+        "jockey_id": 95218,
+        "last_run": "175",
+        "form": "457P6-",
+        "trainer_rtf": "53",
+        "stats": {
+          "course": {
+            "runs": "2",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "3",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "3",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "2",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-2.00",
+            "ovr_runs": "81",
+            "ovr_wins": "9",
+            "ovr_wins_pct": "11%",
+            "ovr_profit": "-36.68"
+          },
+          "trainer": {
+            "last_14_runs": "2",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-2.00",
+            "ovr_runs": "98",
+            "ovr_wins": "17",
+            "ovr_wins_pct": "17%",
+            "ovr_profit": "-10.93"
+          }
+        }
+      },
+      {
+        "age": 9,
+        "horse_id": 2579916,
+        "name": "Oasis Prince",
+        "dob": "2016-04-13",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "br",
+        "region": "GB",
+        "breeder": "Highclere Stud And Floors Farming",
+        "dam": "Demisemiquaver",
+        "dam_region": "GB",
+        "sire": "Oasis Dream",
+        "sire_region": "GB",
+        "grandsire": "Green Desert",
+        "damsire": "Singspiel",
+        "damsire_region": "IRE",
+        "trainer": "Annabelle Sowray",
+        "trainer_id": 38136,
+        "trainer_location": "Helmsley, N Yorks",
+        "trainer_14_days": {
+          "runs": 1,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "Miss Annabelle Sowray",
+        "prev_trainers": [
+          {
+            "trainer": "Jacqueline Coward",
+            "trainer_id": 31902,
+            "change_date": "2025-08-21"
+          },
+          {
+            "trainer": "Mark Walford",
+            "trainer_id": 28876,
+            "change_date": "2024-04-29"
+          },
+          {
+            "trainer": "Lucy Wadham",
+            "trainer_id": 9801,
+            "change_date": "2021-08-23"
+          },
+          {
+            "trainer": "Mark Johnston",
+            "trainer_id": 3378,
+            "change_date": "2020-10-30"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Chester Bosomworth",
+            "owner_id": 58552,
+            "change_date": "2024-04-29"
+          },
+          {
+            "owner": "J David Abell",
+            "owner_id": 8034,
+            "change_date": "2021-08-23"
+          }
+        ],
+        "comment": "Pulled up on both starts for new stable; given another wind op since; too much to prove",
+        "spotlight": "Out of form on the Flat for Jaqueline Coward last year and pulled up in two recent handicap hurdles (2m4f/2m2f) for new stable; needs latest wind op (his third) to have made a huge difference.",
+        "medical": [
+          {
+            "date": "2025-09-18",
+            "type": "Wind Surgery"
+          },
+          {
+            "date": "2024-06-18",
+            "type": "Wind Surgery"
+          },
+          {
+            "date": "2020-11-17",
+            "type": "Wind Surgery"
+          }
+        ],
+        "quotes": [
+          {
+            "date": "2019-05-11",
+            "horse": "Oasis Prince",
+            "horse_id": 2579916,
+            "race": "Pertemps Network Handicap",
+            "race_id": 727659,
+            "course": "Haydock",
+            "course_id": 23,
+            "distance_f": 8,
+            "distance_y": 1752,
+            "quote": "Oasis Prince is a lovely horse who has got better and better since his first run. It was quite tough out there with the headwind - Franny Norton, rider."
+          }
+        ],
+        "stable_tour": null,
+        "number": 10,
+        "draw": 0,
+        "headgear": "tp",
+        "headgear_first": "",
+        "lbs": 150,
+        "ofr": 80,
+        "rpr": null,
+        "ts": null,
+        "jockey": "Jack Power(5)",
+        "jockey_id": 101951,
+        "last_run": "13",
+        "form": "5/4/PP",
+        "trainer_rtf": "",
+        "stats": {
+          "course": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "3",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "9",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "2",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "50%",
+            "last_14_profit": "+6.50",
+            "ovr_runs": "2",
+            "ovr_wins": "1",
+            "ovr_wins_pct": "50%",
+            "ovr_profit": "+5.50"
+          },
+          "trainer": {
+            "last_14_runs": "1",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-1.00",
+            "ovr_runs": "0",
+            "ovr_wins": "0",
+            "ovr_wins_pct": "-",
+            "ovr_profit": "0.00"
+          }
+        }
+      },
+      {
+        "age": 6,
+        "horse_id": 3772688,
+        "name": "Mr Rumbalicious",
+        "dob": "2019-03-29",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Tally-Ho Stud",
+        "dam": "Intaglia",
+        "dam_region": "GB",
+        "sire": "Kodiac",
+        "sire_region": "GB",
+        "grandsire": "Danehill",
+        "damsire": "New Approach",
+        "damsire_region": "IRE",
+        "trainer": "James Moffatt",
+        "trainer_id": 15603,
+        "trainer_location": "Cartmel, Cumbria",
+        "trainer_14_days": {
+          "runs": 1,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "The Fleet Street Partnership",
+        "prev_trainers": [
+          {
+            "trainer": "Alan King",
+            "trainer_id": 13928,
+            "change_date": "2023-07-17"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Mills Racing Syndicate Two",
+            "owner_id": 333148,
+            "change_date": "2025-05-20"
+          },
+          {
+            "owner": "Let's Get Ready To Rumble Partnership",
+            "owner_id": 98556,
+            "change_date": "2023-07-17"
+          }
+        ],
+        "comment": "Generally disappointing in recent years but was made favourite last time (early faller)",
+        "spotlight": "Lightly raced and generally very disappointing since Cartmel win in summer 2023 but was made favourite at Cartmel last month, only to fall at the third flight; interesting to see whether his supporters wade in again.",
+        "quotes": [
+          {
+            "date": "2023-08-26",
+            "horse": "Mr Rumbalicious",
+            "horse_id": 3772688,
+            "race": "Bowness Bay Brewing Conditional Jockeys' Handicap Hurdle (Div II)",
+            "race_id": 848276,
+            "course": "Cartmel",
+            "course_id": 9,
+            "distance_f": 17,
+            "distance_y": 3786,
+            "quote": "Mr Rumbalicious is a fun horse and I am very pleased with him. I think he will be better on slightly better ground actually but we will see - James Moffatt, trainer, speaking to Racing TV."
+          }
+        ],
+        "stable_tour": [
+          {
+            "horse": "Mr Rumbalicious",
+            "horse_id": 3772688,
+            "quote": "His form figures might not show it but he's a straightforward horse who's a really good jumper. It was a momentary lapse when he ducked out at Sedgefield in November and then he somehow managed to unseat his rider last time out at Musselburgh. We'll wait for the better ground in the spring to summer and he might go to Perth before running at Cartmel, where he won last summer. He's gloriously handicapped. 14-02-24"
+          }
+        ],
+        "number": 11,
+        "draw": 0,
+        "headgear": "h",
+        "headgear_first": "",
+        "lbs": 149,
+        "ofr": 79,
+        "rpr": 93,
+        "ts": 68,
+        "jockey": "Charlotte Jones",
+        "jockey_id": 95535,
+        "last_run": "38",
+        "form": "07-25F",
+        "trainer_rtf": "100",
+        "stats": {
+          "course": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "4",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "4",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-4.00",
+            "ovr_runs": "24",
+            "ovr_wins": "2",
+            "ovr_wins_pct": "8%",
+            "ovr_profit": "+29.88"
+          },
+          "trainer": {
+            "last_14_runs": "1",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-1.00",
+            "ovr_runs": "24",
+            "ovr_wins": "2",
+            "ovr_wins_pct": "8%",
+            "ovr_profit": "+29.88"
+          }
+        }
+      },
+      {
+        "age": 9,
+        "horse_id": 2400318,
+        "name": "Balranald",
+        "dob": "2016-02-20",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "gr",
+        "region": "FR",
+        "breeder": "Ecurie Des Monceaux",
+        "dam": "Shining Glory",
+        "dam_region": "GER",
+        "sire": "Mastercraftsman",
+        "sire_region": "IRE",
+        "grandsire": "Danehill Dancer",
+        "damsire": "Konigstiger",
+        "damsire_region": "GER",
+        "trainer": "Alison Hamilton",
+        "trainer_id": 15157,
+        "trainer_location": "Denholm, Roxburghshire",
+        "trainer_14_days": {
+          "runs": 0,
+          "wins": 0,
+          "percent": null
+        },
+        "owner": "J P G Hamilton",
+        "prev_trainers": [
+          {
+            "trainer": "Keith Dalgleish",
+            "trainer_id": 24548,
+            "change_date": "2021-06-14"
+          },
+          {
+            "trainer": "Lucinda Russell",
+            "trainer_id": 6990,
+            "change_date": "2020-12-15"
+          },
+          {
+            "trainer": "J-C Rouget",
+            "trainer_id": 8358,
+            "change_date": "2019-10-31"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Mrs A C Hamilton",
+            "owner_id": 93535,
+            "change_date": "2021-06-16"
+          },
+          {
+            "owner": "J Fyffe",
+            "owner_id": 151530,
+            "change_date": "2021-06-14"
+          },
+          {
+            "owner": "P Maher & J Baxter",
+            "owner_id": 270699,
+            "change_date": "2019-10-31"
+          }
+        ],
+        "comment": "Not at best when last seen in the spring and has fitness to prove today",
+        "spotlight": "Won twice over 2m1f (once here) off this mark last October and will be fine over today's longer trip but was not at his best when last seen in the spring and has fitness to prove today.",
+        "medical": [
+          {
+            "date": "2022-11-30",
+            "type": "Wind Surgery"
+          },
+          {
+            "date": "2021-09-08",
+            "type": "Wind Surgery"
+          },
+          {
+            "date": "2020-10-29",
+            "type": "Wind Surgery"
+          },
+          {
+            "date": "2020-01-08",
+            "type": "Wind Surgery"
+          }
+        ],
+        "quotes": null,
+        "stable_tour": null,
+        "number": 12,
+        "draw": 0,
+        "headgear": "p",
+        "headgear_first": "",
+        "lbs": 145,
+        "ofr": 75,
+        "rpr": 99,
+        "ts": 80,
+        "jockey": "Jamie Hamilton",
+        "jockey_id": 90517,
+        "last_run": "128",
+        "form": "3454-6",
+        "trainer_rtf": "",
+        "stats": {
+          "course": {
+            "runs": "9",
+            "wins": "2"
+          },
+          "distance": {
+            "runs": "16",
+            "wins": "2"
+          },
+          "going": {
+            "runs": "17",
+            "wins": "3"
+          },
+          "jockey": {
+            "last_14_runs": "5",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "20%",
+            "last_14_profit": "0.00",
+            "ovr_runs": "98",
+            "ovr_wins": "10",
+            "ovr_wins_pct": "10%",
+            "ovr_profit": "-33.28"
+          },
+          "trainer": {
+            "last_14_runs": "0",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "-",
+            "last_14_profit": "0.00",
+            "ovr_runs": "20",
+            "ovr_wins": "4",
+            "ovr_wins_pct": "20%",
+            "ovr_profit": "+10.75"
+          }
+        }
+      },
+      {
+        "age": 5,
+        "horse_id": 5864687,
+        "name": "Cross Of Redmoor",
+        "dob": "2020-02-02",
+        "sex": "mare",
+        "sex_code": "M",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Miss Eve Collins",
+        "dam": "Gentle Ginger",
+        "dam_region": "IRE",
+        "sire": "Getaway",
+        "sire_region": "GER",
+        "grandsire": "Monsun",
+        "damsire": "Gold Well",
+        "damsire_region": "GB",
+        "trainer": "Lizzie Quinlan",
+        "trainer_id": 39853,
+        "trainer_location": "Bolton Mill, Cumbria",
+        "trainer_14_days": {
+          "runs": 10,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "Dales Racing And Partner",
+        "prev_trainers": null,
+        "prev_owners": null,
+        "comment": "Well beaten in three Cartmel novice hurdles this summer; 2lb wrong for handicap debut",
+        "spotlight": "Maiden Irish pointer who was well beaten in three Cartmel novice hurdles (2m1f-2m6f) this summer; still very unexposed under rules but needs major improvement on this handicap debut; 2lb wrong; tongue-tie added.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 13,
+        "draw": 0,
+        "headgear": "t",
+        "headgear_first": "1",
+        "lbs": 142,
+        "ofr": 72,
+        "rpr": null,
+        "ts": 42,
+        "jockey": "Sean Quinlan",
+        "jockey_id": 82485,
+        "last_run": "38",
+        "form": "-5FP69",
+        "trainer_rtf": "10",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "2",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "11",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-11.00",
+            "ovr_runs": "177",
+            "ovr_wins": "29",
+            "ovr_wins_pct": "16%",
+            "ovr_profit": "-31.10"
+          },
+          "trainer": {
+            "last_14_runs": "8",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-8.00",
+            "ovr_runs": "27",
+            "ovr_wins": "1",
+            "ovr_wins_pct": "4%",
+            "ovr_profit": "-22.00"
+          }
+        }
+      },
+      {
+        "age": 5,
+        "horse_id": 4597238,
+        "name": "Macho Sun",
+        "dob": "2020-03-01",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Kevin & Meta Cullen",
+        "dam": "Morning Jewel",
+        "dam_region": "IRE",
+        "sire": "Camacho",
+        "sire_region": "GB",
+        "grandsire": "Danehill",
+        "damsire": "Dalakhani",
+        "damsire_region": "IRE",
+        "trainer": "Mike Sowersby",
+        "trainer_id": 4054,
+        "trainer_location": "Little Barugh, N Yorks",
+        "trainer_14_days": {
+          "runs": 6,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "The Southwold Set",
+        "prev_trainers": [
+          {
+            "trainer": "Julia Feilden",
+            "trainer_id": 14532,
+            "change_date": "2024-09-11"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "In It To Win Partnership",
+            "owner_id": 182515,
+            "change_date": "2024-09-11"
+          }
+        ],
+        "comment": "0-17 on the Flat and 0-4 over hurdles; back from a break; very difficult to enthuse over",
+        "spotlight": "0-17 on the Flat and 0-4 over hurdles; had excuse (saddle slipped) when in rear throughout handicap debut in April but we haven't seen him again since and he remains very difficult to enthuse over; 4lb wrong.",
+        "medical": [
+          {
+            "date": "2025-02-28",
+            "type": "Wind Surgery"
+          }
+        ],
+        "quotes": null,
+        "stable_tour": null,
+        "number": 14,
+        "draw": 0,
+        "headgear": "t",
+        "headgear_first": "",
+        "lbs": 142,
+        "ofr": 72,
+        "rpr": 92,
+        "ts": 69,
+        "jockey": null,
+        "jockey_id": null,
+        "last_run": "163",
+        "form": "9P49-",
+        "trainer_rtf": "50",
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "country": "GB",
+    "course": "Sedgefield",
+    "off_time": "2:07",
+    "course_id": 57,
+    "race_id": 902520,
+    "date": "2025-09-30",
+    "race_name": "Nigel Hawke Raceday Experiences Conditional Jockeys' Handicap Hurdle (Go North Sea Pigeon Qual')",
+    "distance_round": "2m1f",
+    "distance": "2m178y",
+    "distance_f": 17.0,
+    "region": "GB",
+    "pattern": "",
+    "race_class": "Class 5",
+    "type": "Hurdle",
+    "age_band": "3yo+",
+    "rating_band": "0-105",
+    "prize": "\u00a33,248",
+    "field_size": 11,
+    "going_detailed": "GOOD (Watered; 6.5)",
+    "rail_movements": "",
+    "stalls": "",
+    "weather": "sunny intervals",
+    "going": "Good",
+    "surface": "Turf",
+    "runners": [
+      {
+        "age": 5,
+        "horse_id": 4612985,
+        "name": "Zafaan",
+        "dob": "2020-03-26",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Kilshannig Stud & Flaxman Holdings",
+        "dam": "Gush",
+        "dam_region": "USA",
+        "sire": "Zoffany",
+        "sire_region": "IRE",
+        "grandsire": "Dansili",
+        "damsire": "Empire Maker",
+        "damsire_region": "USA",
+        "trainer": "Charlie Clover",
+        "trainer_id": 41928,
+        "trainer_location": "Newmarket, Suffolk",
+        "trainer_14_days": {
+          "runs": 4,
+          "wins": 1,
+          "percent": 25
+        },
+        "owner": "Odds On Syndicate",
+        "prev_trainers": [
+          {
+            "trainer": "Kevin Philippart De Foy",
+            "trainer_id": 37949,
+            "change_date": "2024-12-02"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Mrs Jacqueline Clover",
+            "owner_id": 250656,
+            "change_date": "2024-12-14"
+          },
+          {
+            "owner": "The Denis The Menace Syndicate",
+            "owner_id": 329168,
+            "change_date": "2024-12-02"
+          },
+          {
+            "owner": "Abdullatif M Al-Abdulrazzaq",
+            "owner_id": 252320,
+            "change_date": "2023-03-30"
+          }
+        ],
+        "comment": "Second on handicap hurdle debut in June and in good form on the Flat since",
+        "spotlight": "Bumped into revitalised opponent when well-held second on handicap hurdle debut at Southwell (2m, good) in June and has been in good form on the Flat in the meantime; may still have untapped potential over jumps; shortlisted.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 1,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 168,
+        "ofr": 103,
+        "rpr": 101,
+        "ts": 89,
+        "jockey": "Jack Andrews",
+        "jockey_id": 98137,
+        "last_run": "119 (33F)",
+        "form": "335-2",
+        "trainer_rtf": "100",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "4",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "4",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-4.00",
+            "ovr_runs": "10",
+            "ovr_wins": "2",
+            "ovr_wins_pct": "20%",
+            "ovr_profit": "-1.50"
+          },
+          "trainer": {
+            "last_14_runs": "0",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "-",
+            "last_14_profit": "0.00",
+            "ovr_runs": "0",
+            "ovr_wins": "0",
+            "ovr_wins_pct": "-",
+            "ovr_profit": "0.00"
+          }
+        }
+      },
+      {
+        "age": 6,
+        "horse_id": 3781889,
+        "name": "Wind Your Neck In",
+        "dob": "2019-03-15",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "ch",
+        "region": "IRE",
+        "breeder": "Oghill House Stud",
+        "dam": "Samite",
+        "dam_region": "USA",
+        "sire": "Decorated Knight",
+        "sire_region": "GB",
+        "grandsire": "Galileo",
+        "damsire": "Distorted Humor",
+        "damsire_region": "USA",
+        "trainer": "Sam England",
+        "trainer_id": 31667,
+        "trainer_location": "Guiseley, W Yorks",
+        "trainer_14_days": {
+          "runs": 11,
+          "wins": 1,
+          "percent": 9
+        },
+        "owner": "Wyniers",
+        "prev_trainers": [
+          {
+            "trainer": "David Evans",
+            "trainer_id": 3846,
+            "change_date": "2025-02-03"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Paul & Clare Rooney",
+            "owner_id": 199331,
+            "change_date": "2025-02-03"
+          }
+        ],
+        "comment": "Arrives here with a bit to prove but could be on a good mark for handicap hurdle debut",
+        "spotlight": "Fairly useful Flat racer who came second twice over hurdles at Southwell (2m, good) in the spring; well beaten on all three subsequent Flat starts and spoiled chance by refusing to settle on return to hurdling in July but could be on a good mark for handicap hurdle debut; market helpful.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 2,
+        "draw": 0,
+        "headgear": "t",
+        "headgear_first": "",
+        "lbs": 168,
+        "ofr": 103,
+        "rpr": 108,
+        "ts": 66,
+        "jockey": "Tom Midgley(3)",
+        "jockey_id": 97204,
+        "last_run": "71",
+        "form": "52-24",
+        "trainer_rtf": "56",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "4",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "3",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "1",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-1.00",
+            "ovr_runs": "75",
+            "ovr_wins": "6",
+            "ovr_wins_pct": "8%",
+            "ovr_profit": "-9.75"
+          },
+          "trainer": {
+            "last_14_runs": "3",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "33%",
+            "last_14_profit": "+7.00",
+            "ovr_runs": "97",
+            "ovr_wins": "14",
+            "ovr_wins_pct": "14%",
+            "ovr_profit": "-25.45"
+          }
+        }
+      },
+      {
+        "age": 5,
+        "horse_id": 5746437,
+        "name": "Captain Cool",
+        "dob": "2020-04-19",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Margaret Kelly",
+        "dam": "Legal Proceedings",
+        "dam_region": "IRE",
+        "sire": "Jet Away",
+        "sire_region": "GB",
+        "grandsire": "Cape Cross",
+        "damsire": "Witness Box",
+        "damsire_region": "USA",
+        "trainer": "Jennie Candlish",
+        "trainer_id": 15552,
+        "trainer_location": "Basford, Staffs",
+        "trainer_14_days": {
+          "runs": 25,
+          "wins": 6,
+          "percent": 24
+        },
+        "owner": "A Baxter, Sowray & White Hart",
+        "prev_trainers": null,
+        "prev_owners": [
+          {
+            "owner": "Alan Baxter",
+            "owner_id": 58383,
+            "change_date": "2025-09-02"
+          }
+        ],
+        "comment": "Irish point winner; made promising start to hurdling career; can improve in handicaps",
+        "spotlight": "Irish point winner who made the frame on first two hurdling starts, more recently when third at Perth (2m, good) this month; could have significant improvement to come in handicaps; tongue-tie added.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 3,
+        "draw": 0,
+        "headgear": "t",
+        "headgear_first": "1",
+        "lbs": 164,
+        "ofr": 99,
+        "rpr": 104,
+        "ts": 71,
+        "jockey": "Luke Scott",
+        "jockey_id": 98714,
+        "last_run": "22",
+        "form": "P/1-43",
+        "trainer_rtf": "58",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "2",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "7",
+            "last_14_wins": "2",
+            "last_14_wins_pct": "29%",
+            "last_14_profit": "-1.63",
+            "ovr_runs": "4",
+            "ovr_wins": "1",
+            "ovr_wins_pct": "25%",
+            "ovr_profit": "-2.56"
+          },
+          "trainer": {
+            "last_14_runs": "7",
+            "last_14_wins": "2",
+            "last_14_wins_pct": "29%",
+            "last_14_profit": "-1.63",
+            "ovr_runs": "93",
+            "ovr_wins": "17",
+            "ovr_wins_pct": "18%",
+            "ovr_profit": "-27.31"
+          }
+        }
+      },
+      {
+        "age": 4,
+        "horse_id": 5396344,
+        "name": "Roadshow",
+        "dob": "2021-01-16",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Coolmore",
+        "dam": "Acapulco",
+        "dam_region": "USA",
+        "sire": "Galileo",
+        "sire_region": "IRE",
+        "grandsire": "Sadlers Wells",
+        "damsire": "Scat Daddy",
+        "damsire_region": "USA",
+        "trainer": "Paul Nicholls",
+        "trainer_id": 5767,
+        "trainer_location": "Ditcheat, Somerset",
+        "trainer_14_days": {
+          "runs": 5,
+          "wins": 3,
+          "percent": 60
+        },
+        "owner": "Old Gold Racing 27",
+        "prev_trainers": [
+          {
+            "trainer": "A Fabre",
+            "trainer_id": 1093,
+            "change_date": "2024-07-03"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Derrick Smith & Michael Tabor & Mrs John Magnier",
+            "owner_id": 150815,
+            "change_date": "2025-03-21"
+          },
+          {
+            "owner": "Derrick Smith & Mrs John Magnier & Michael Tabor",
+            "owner_id": 145061,
+            "change_date": "2024-03-29"
+          },
+          {
+            "owner": "Derrick Smith & Michael Tabor & Mrs John Magnier",
+            "owner_id": 150815,
+            "change_date": "2024-02-27"
+          }
+        ],
+        "comment": "0-7 over hurdles but top yard has excellent strike-rate with occasional Sedgefield runners",
+        "spotlight": "Quite useful on the Flat in France last year; 0-7 and generally disappointing over hurdles but the form of his close third at Newton Abbot (2m2f, good) two starts ago reads quite well, and his top trainer has an excellent strike-rate (6-14) with his occasional Sedgefield runners.",
+        "medical": [
+          {
+            "date": "2024-10-24",
+            "type": "Wind Surgery"
+          }
+        ],
+        "quotes": null,
+        "stable_tour": [
+          {
+            "horse": "Roadshow",
+            "horse_id": 5396344,
+            "quote": "Another of the French imports, who was bought at the Arqana Sale in July. He won his only Flat start at two for Andre Fabre, but rather lost his way this year. We've gelded him and he's recently back from a wind op, so won't be out in juvenile hurdles until after Christmas. 04-11-24"
+          }
+        ],
+        "number": 4,
+        "draw": 0,
+        "headgear": "t",
+        "headgear_first": "",
+        "lbs": 163,
+        "ofr": 100,
+        "rpr": 106,
+        "ts": 52,
+        "jockey": "Freddie Keighley(10)",
+        "jockey_id": 103518,
+        "last_run": "40",
+        "form": "-23U34",
+        "trainer_rtf": "100",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "3",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "7",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "2",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-2.00",
+            "ovr_runs": "2",
+            "ovr_wins": "1",
+            "ovr_wins_pct": "50%",
+            "ovr_profit": "+9.00"
+          },
+          "trainer": {
+            "last_14_runs": "5",
+            "last_14_wins": "2",
+            "last_14_wins_pct": "40%",
+            "last_14_profit": "-1.78",
+            "ovr_runs": "5",
+            "ovr_wins": "3",
+            "ovr_wins_pct": "60%",
+            "ovr_profit": "+10.32"
+          }
+        }
+      },
+      {
+        "age": 4,
+        "horse_id": 5412923,
+        "name": "Spartan Warrior",
+        "dob": "2021-03-04",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Lynch Bages Ltd",
+        "dam": "Silky",
+        "dam_region": "IRE",
+        "sire": "Saxon Warrior",
+        "sire_region": "JPN",
+        "grandsire": "Deep Impact",
+        "damsire": "Montjeu",
+        "damsire_region": "IRE",
+        "trainer": "Rebecca Menzies",
+        "trainer_id": 28511,
+        "trainer_location": "Morden, Durham",
+        "trainer_14_days": {
+          "runs": 28,
+          "wins": 2,
+          "percent": 7
+        },
+        "owner": "John Shannon",
+        "prev_trainers": [
+          {
+            "trainer": "Ollie Sangster",
+            "trainer_id": 40346,
+            "change_date": "2024-10-31"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Robert Aplin",
+            "owner_id": 184935,
+            "change_date": "2025-09-01"
+          },
+          {
+            "owner": "J Fyffe",
+            "owner_id": 151530,
+            "change_date": "2025-05-02"
+          },
+          {
+            "owner": "Red Post Racing, Johnson & Partners",
+            "owner_id": 337236,
+            "change_date": "2024-10-31"
+          }
+        ],
+        "comment": "Won over hurdles at Kelso in the spring but comes here after two disappointing Flat runs",
+        "spotlight": "1-8 over hurdles, the win gained off 1lb lower mark at Kelso (2m2f, good) in May; disappointed on both recent Flat starts, though, and arrives here with a point to prove.",
+        "medical": [
+          {
+            "date": "2025-01-29",
+            "type": "Wind Surgery"
+          }
+        ],
+        "quotes": null,
+        "stable_tour": [
+          {
+            "horse": "Spartan Warrior",
+            "horse_id": 5412923,
+            "quote": "He's the first horse we've had for Jimmy Fyffe and was rated 71 on the Flat when trained by Ollie Sangster, winning at 1m2f and 1m4f. He's schooled very well and will start in a juvenile hurdle at Musselburgh at the end of November, with a view to looking at some of the lucrative juvenile hurdles if we can. 16-10-24"
+          }
+        ],
+        "number": 5,
+        "draw": 0,
+        "headgear": "tv",
+        "headgear_first": "",
+        "lbs": 163,
+        "ofr": 100,
+        "rpr": 103,
+        "ts": 99,
+        "jockey": "Callum Pritchard",
+        "jockey_id": 102437,
+        "last_run": "65 (16F)",
+        "form": "6-2136",
+        "trainer_rtf": "44",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "2",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "5",
+            "wins": "1"
+          },
+          "jockey": {
+            "last_14_runs": "4",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-4.00",
+            "ovr_runs": "1",
+            "ovr_wins": "0",
+            "ovr_wins_pct": "0%",
+            "ovr_profit": "-1.00"
+          },
+          "trainer": {
+            "last_14_runs": "10",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "10%",
+            "last_14_profit": "-1.00",
+            "ovr_runs": "126",
+            "ovr_wins": "17",
+            "ovr_wins_pct": "13%",
+            "ovr_profit": "-45.59"
+          }
+        }
+      },
+      {
+        "age": 4,
+        "horse_id": 5216450,
+        "name": "Game Management",
+        "dob": "2021-04-14",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "GB",
+        "breeder": "Placida Bloodstock",
+        "dam": "Belle Vale",
+        "dam_region": "IRE",
+        "sire": "Nathaniel",
+        "sire_region": "IRE",
+        "grandsire": "Galileo",
+        "damsire": "Cape Cross",
+        "damsire_region": "IRE",
+        "trainer": "Lizzie Quinlan",
+        "trainer_id": 39853,
+        "trainer_location": "Bolton Mill, Cumbria",
+        "trainer_14_days": {
+          "runs": 10,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "Mrs C Clark, Ellerby, Pollitt & Quinlan",
+        "prev_trainers": [
+          {
+            "trainer": "Kevin Ryan",
+            "trainer_id": 22525,
+            "change_date": "2024-11-16"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "B T McDonald",
+            "owner_id": 128778,
+            "change_date": "2025-05-24"
+          }
+        ],
+        "comment": "Juvenile hurdle winner last autumn but pulled up in selling handicap this summer",
+        "spotlight": "Won on hurdling debut at Catterick (1m7f, good) last November but this year's Flat form has been disappointing and he was pulled up (albeit on soft ground) when making handicap hurdle debut in selling grade in July.",
+        "medical": [
+          {
+            "date": "2024-08-15",
+            "type": "Wind Surgery"
+          }
+        ],
+        "quotes": null,
+        "stable_tour": null,
+        "number": 6,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 161,
+        "ofr": 98,
+        "rpr": 103,
+        "ts": 59,
+        "jockey": "Peter Kavanagh(3)",
+        "jockey_id": 79499,
+        "last_run": "71",
+        "form": "13-P",
+        "trainer_rtf": "11",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "2",
+            "wins": "1"
+          },
+          "jockey": {
+            "last_14_runs": "8",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "13%",
+            "last_14_profit": "-3.50",
+            "ovr_runs": "69",
+            "ovr_wins": "5",
+            "ovr_wins_pct": "7%",
+            "ovr_profit": "-28.00"
+          },
+          "trainer": {
+            "last_14_runs": "7",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-7.00",
+            "ovr_runs": "26",
+            "ovr_wins": "1",
+            "ovr_wins_pct": "4%",
+            "ovr_profit": "-21.00"
+          }
+        }
+      },
+      {
+        "age": 8,
+        "horse_id": 2815620,
+        "name": "Ambassador",
+        "dob": "2017-03-08",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Sir Robert Ogden",
+        "dam": "Natural Bloom",
+        "dam_region": "IRE",
+        "sire": "Invincible Spirit",
+        "sire_region": "IRE",
+        "grandsire": "Green Desert",
+        "damsire": "Galileo",
+        "damsire_region": "IRE",
+        "trainer": "Micky Hammond",
+        "trainer_id": 5020,
+        "trainer_location": "Middleham, N Yorks",
+        "trainer_14_days": {
+          "runs": 7,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "The Cheltenham Trail",
+        "prev_trainers": [
+          {
+            "trainer": "Martin Keighley",
+            "trainer_id": 15642,
+            "change_date": "2023-07-18"
+          },
+          {
+            "trainer": "Dan Skelton",
+            "trainer_id": 16270,
+            "change_date": "2022-12-20"
+          },
+          {
+            "trainer": "Richard Fahey",
+            "trainer_id": 8010,
+            "change_date": "2020-12-04"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "David Parry",
+            "owner_id": 59279,
+            "change_date": "2024-10-28"
+          },
+          {
+            "owner": "V Thompson",
+            "owner_id": 468,
+            "change_date": "2024-06-03"
+          },
+          {
+            "owner": "David Parry",
+            "owner_id": 59279,
+            "change_date": "2024-05-31"
+          },
+          {
+            "owner": "The Cheltenham Trail",
+            "owner_id": 255365,
+            "change_date": "2023-09-07"
+          },
+          {
+            "owner": "Martin Keighley Racing Club",
+            "owner_id": 245138,
+            "change_date": "2023-07-18"
+          }
+        ],
+        "comment": "Won off much reduced mark last month but safely held since; others preferred",
+        "spotlight": "Has very good 7-36 strike-rate over hurdles but needed considerable help from the handicapper before last month's success at Cartmel (2m1f, good) and dropped out rather tamely in the closing stages at Kelso recently.",
+        "medical": [
+          {
+            "date": "2021-02-10",
+            "type": "Wind Surgery"
+          }
+        ],
+        "quotes": [
+          {
+            "date": "2023-07-28",
+            "horse": "Ambassador",
+            "horse_id": 2815620,
+            "race": "Brit Direct Handicap Hurdle (Div II)",
+            "race_id": 846395,
+            "course": "Uttoxeter",
+            "course_id": 84,
+            "distance_f": 16,
+            "distance_y": 3468,
+            "quote": "Ambassador came to us in good form and all we've had to do is tick him over. He was given a good ride by Brian Hughes and it just sort of fell right for us really - Micky Hammond, trainer."
+          }
+        ],
+        "stable_tour": null,
+        "number": 7,
+        "draw": 0,
+        "headgear": "p",
+        "headgear_first": "",
+        "lbs": 160,
+        "ofr": 95,
+        "rpr": 104,
+        "ts": 101,
+        "jockey": "Alice Stevens",
+        "jockey_id": 97788,
+        "last_run": "13",
+        "form": "633316",
+        "trainer_rtf": "50",
+        "stats": {
+          "course": {
+            "runs": "4",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "14",
+            "wins": "1"
+          },
+          "going": {
+            "runs": "26",
+            "wins": "4"
+          },
+          "jockey": {
+            "last_14_runs": "2",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-2.00",
+            "ovr_runs": "8",
+            "ovr_wins": "2",
+            "ovr_wins_pct": "25%",
+            "ovr_profit": "-1.20"
+          },
+          "trainer": {
+            "last_14_runs": "2",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-2.00",
+            "ovr_runs": "199",
+            "ovr_wins": "26",
+            "ovr_wins_pct": "13%",
+            "ovr_profit": "+26.10"
+          }
+        }
+      },
+      {
+        "age": 6,
+        "horse_id": 3793531,
+        "name": "Trailblazer",
+        "dob": "2019-04-26",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "GB",
+        "breeder": "Carmel Stud",
+        "dam": "Ballymore Celebre",
+        "dam_region": "IRE",
+        "sire": "Dark Angel",
+        "sire_region": "IRE",
+        "grandsire": "Acclamation",
+        "damsire": "Peintre Celebre",
+        "damsire_region": "USA",
+        "trainer": "Adam Nicol",
+        "trainer_id": 37984,
+        "trainer_location": "Seahouses, Northumberland",
+        "trainer_14_days": {
+          "runs": 6,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "Ian Nicol Racing",
+        "prev_trainers": [
+          {
+            "trainer": "William Muir & Chris Grassick",
+            "trainer_id": 38350,
+            "change_date": "2022-12-07"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Carmel Stud",
+            "owner_id": 147840,
+            "change_date": "2022-12-07"
+          }
+        ],
+        "comment": "Has remained in good form since making all over C&D in April; should give this a good shot",
+        "spotlight": "Made all to score by 13l over C&D (good) in April and has remained in good form since; current mark is workable; ought to give this a good shot.",
+        "medical": [
+          {
+            "date": "2025-03-05",
+            "type": "Wind Surgery"
+          }
+        ],
+        "quotes": null,
+        "stable_tour": null,
+        "number": 8,
+        "draw": 0,
+        "headgear": "tp",
+        "headgear_first": "",
+        "lbs": 160,
+        "ofr": 95,
+        "rpr": 108,
+        "ts": 88,
+        "jockey": "Charlie Maggs",
+        "jockey_id": 101500,
+        "last_run": "79",
+        "form": "12-343",
+        "trainer_rtf": "60",
+        "stats": {
+          "course": {
+            "runs": "8",
+            "wins": "1"
+          },
+          "distance": {
+            "runs": "15",
+            "wins": "2"
+          },
+          "going": {
+            "runs": "9",
+            "wins": "2"
+          },
+          "jockey": {
+            "last_14_runs": "9",
+            "last_14_wins": "2",
+            "last_14_wins_pct": "22%",
+            "last_14_profit": "+6.50",
+            "ovr_runs": "23",
+            "ovr_wins": "2",
+            "ovr_wins_pct": "9%",
+            "ovr_profit": "-16.80"
+          },
+          "trainer": {
+            "last_14_runs": "2",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-2.00",
+            "ovr_runs": "24",
+            "ovr_wins": "3",
+            "ovr_wins_pct": "13%",
+            "ovr_profit": "-9.75"
+          }
+        }
+      },
+      {
+        "age": 5,
+        "horse_id": 4691050,
+        "name": "Jos Rainbow",
+        "dob": "2020-03-26",
+        "sex": "mare",
+        "sex_code": "M",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Kilshannig Stud",
+        "dam": "Rainbow Dancing",
+        "dam_region": "GB",
+        "sire": "Nathaniel",
+        "sire_region": "IRE",
+        "grandsire": "Galileo",
+        "damsire": "Rainbow Quest",
+        "damsire_region": "USA",
+        "trainer": "Charles & Adam Pogson",
+        "trainer_id": 37756,
+        "trainer_location": "Farnsfield, Notts",
+        "trainer_14_days": {
+          "runs": 4,
+          "wins": 1,
+          "percent": 25
+        },
+        "owner": "Hughes,Lawson,Pogson",
+        "prev_trainers": [
+          {
+            "trainer": "Dan Skelton",
+            "trainer_id": 16270,
+            "change_date": "2025-08-11"
+          },
+          {
+            "trainer": "K R Burke",
+            "trainer_id": 5019,
+            "change_date": "2024-05-16"
+          },
+          {
+            "trainer": "Richard Fahey",
+            "trainer_id": 8010,
+            "change_date": "2023-03-01"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Notalotterry 2",
+            "owner_id": 334091,
+            "change_date": "2025-08-11"
+          },
+          {
+            "owner": "Havelock Racing",
+            "owner_id": 98699,
+            "change_date": "2024-05-16"
+          }
+        ],
+        "comment": "Safely held on both recent starts for new stable; needs a boost from new visor here",
+        "spotlight": "Safely held on both recent starts for new stable (2m2f) and now 0-12 over hurdles; faced fairly tough assignment when third of five from out of the weights last time but still needs a boost from the new visor here.",
+        "medical": [
+          {
+            "date": "2024-11-26",
+            "type": "Wind Surgery"
+          }
+        ],
+        "quotes": null,
+        "stable_tour": [
+          {
+            "horse": "Jo's Rainbow",
+            "horse_id": 4691050,
+            "quote": "She's just arrived at the yard after one run last year in the maiden won by Flight Plan. She'll need further than 7f and could be nice once she steps up in trip. 06-04-23"
+          }
+        ],
+        "number": 9,
+        "draw": 0,
+        "headgear": "v",
+        "headgear_first": "1",
+        "lbs": 146,
+        "ofr": 81,
+        "rpr": 105,
+        "ts": 87,
+        "jockey": "Toby Wynne",
+        "jockey_id": 100082,
+        "last_run": "24",
+        "form": "5-7F03",
+        "trainer_rtf": "50",
+        "stats": {
+          "course": {
+            "runs": "0",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "8",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "10",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "5",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-5.00",
+            "ovr_runs": "19",
+            "ovr_wins": "3",
+            "ovr_wins_pct": "16%",
+            "ovr_profit": "-7.00"
+          },
+          "trainer": {
+            "last_14_runs": "4",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "25%",
+            "last_14_profit": "-1.75",
+            "ovr_runs": "6",
+            "ovr_wins": "1",
+            "ovr_wins_pct": "17%",
+            "ovr_profit": "+1.50"
+          }
+        }
+      },
+      {
+        "age": 7,
+        "horse_id": 5007838,
+        "name": "Fairly Fulling",
+        "dob": "2018-05-27",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "W Devereux",
+        "dam": "Lonely Sky",
+        "dam_region": "IRE",
+        "sire": "Arcadio",
+        "sire_region": "GER",
+        "grandsire": "Monsun",
+        "damsire": "Blueprint",
+        "damsire_region": "IRE",
+        "trainer": "Susan Corbett",
+        "trainer_id": 10806,
+        "trainer_location": "Otterburn, Northumberland",
+        "trainer_14_days": {
+          "runs": 3,
+          "wins": 1,
+          "percent": 33
+        },
+        "owner": "Gary Satchwell",
+        "prev_trainers": [
+          {
+            "trainer": "Jane Walton",
+            "trainer_id": 18903,
+            "change_date": "2025-09-24"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "Dere Street",
+            "owner_id": 335718,
+            "change_date": "2025-09-24"
+          }
+        ],
+        "comment": "0-8 over hurdles for Jane Walton; market may guide before this stable debut",
+        "spotlight": "0-8 over hurdles for Jane Walton; ran well when fifth under very positive ride at Hexham (2m, good to soft) in March but two poor efforts followed; makes stable debut after 159-day absence; market may guide.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 10,
+        "draw": 0,
+        "headgear": "",
+        "headgear_first": "",
+        "lbs": 144,
+        "ofr": 79,
+        "rpr": 106,
+        "ts": 84,
+        "jockey": "Conor Rabbitt",
+        "jockey_id": 99321,
+        "last_run": "159",
+        "form": "805P7-",
+        "trainer_rtf": "100",
+        "stats": {
+          "course": {
+            "runs": "2",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "7",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "5",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "2",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-2.00",
+            "ovr_runs": "38",
+            "ovr_wins": "3",
+            "ovr_wins_pct": "8%",
+            "ovr_profit": "-25.50"
+          },
+          "trainer": {
+            "last_14_runs": "2",
+            "last_14_wins": "1",
+            "last_14_wins_pct": "50%",
+            "last_14_profit": "+0.63",
+            "ovr_runs": "21",
+            "ovr_wins": "3",
+            "ovr_wins_pct": "14%",
+            "ovr_profit": "-0.50"
+          }
+        }
+      },
+      {
+        "age": 5,
+        "horse_id": 5751510,
+        "name": "Youre Kidding Me",
+        "dob": "2020-05-03",
+        "sex": "gelding",
+        "sex_code": "G",
+        "colour": "b",
+        "region": "IRE",
+        "breeder": "Mrs Noreen McManus",
+        "dam": "No Kidding",
+        "dam_region": "IRE",
+        "sire": "Getaway",
+        "sire_region": "GER",
+        "grandsire": "Monsun",
+        "damsire": "Kayf Tara",
+        "damsire_region": "GB",
+        "trainer": "Mike Sowersby",
+        "trainer_id": 4054,
+        "trainer_location": "Little Barugh, N Yorks",
+        "trainer_14_days": {
+          "runs": 6,
+          "wins": 0,
+          "percent": 0
+        },
+        "owner": "Mrs J M Plummer",
+        "prev_trainers": [
+          {
+            "trainer": "E Bolger",
+            "trainer_id": 7811,
+            "change_date": "2024-06-15"
+          }
+        ],
+        "prev_owners": [
+          {
+            "owner": "John P McManus",
+            "owner_id": 20887,
+            "change_date": "2024-06-15"
+          }
+        ],
+        "comment": "Pulled up in all three handicaps and absent since last October",
+        "spotlight": "Pulled up in all three handicap hurdles, the latest over 2m7f last October; drops back in trip and swaps blinkers for first-time cheekpieces here; 5lb out of the weights; can't be recommended.",
+        "quotes": null,
+        "stable_tour": null,
+        "number": 11,
+        "draw": 0,
+        "headgear": "p",
+        "headgear_first": "1",
+        "lbs": 142,
+        "ofr": 77,
+        "rpr": null,
+        "ts": null,
+        "jockey": "Aaron Anderson",
+        "jockey_id": 96446,
+        "last_run": "350",
+        "form": "/9PPP-",
+        "trainer_rtf": "60",
+        "stats": {
+          "course": {
+            "runs": "1",
+            "wins": "0"
+          },
+          "distance": {
+            "runs": "2",
+            "wins": "0"
+          },
+          "going": {
+            "runs": "3",
+            "wins": "0"
+          },
+          "jockey": {
+            "last_14_runs": "2",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-2.00",
+            "ovr_runs": "60",
+            "ovr_wins": "4",
+            "ovr_wins_pct": "7%",
+            "ovr_profit": "-35.00"
+          },
+          "trainer": {
+            "last_14_runs": "1",
+            "last_14_wins": "0",
+            "last_14_wins_pct": "0%",
+            "last_14_profit": "-1.00",
+            "ovr_runs": "52",
+            "ovr_wins": "1",
+            "ovr_wins_pct": "2%",
+            "ovr_profit": "-44.00"
+          }
+        }
+      }
+    ]
+  }
+]

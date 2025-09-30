@@ -1,13 +1,18 @@
 import json
 from pathlib import Path
+from datetime import date
 
 # --- CONFIG ---
-input_file = Path("agents/rpscrape-raceday-actor/rpscrape/racecards/Pasted_Text_1759245284419.txt")
-output_dir = input_file.parent / "races_by_course"
-output_dir.mkdir(exist_ok=True)
+today_str = date.today().strftime("%Y-%m-%d")
+
+# Build the full path with the dynamic filename
+# Build the full path with the dynamic filename
+input_file = Path("rpscrape/racecards") / f"{today_str}.json"
+output_dir = Path("output") / f"{today_str}"
+output_dir.mkdir(parents=True, exist_ok=True)  # <-- Add parents=True
 
 # --- LOAD DATA ---
-with open(input_file, "r") as f:
+with open(input_file, "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # --- FLATTEN & COLLECT RACES ---
